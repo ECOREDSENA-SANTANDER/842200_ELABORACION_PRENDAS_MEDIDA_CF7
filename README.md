@@ -1,8 +1,8 @@
-# **Elaboración de modelos femeninos**
+# **Confección de prendas de vestir**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ELABORACION_PRENDAS_MEDIDA_CF4/](https://ecored-sena.github.io/ELABORACION_PRENDAS_MEDIDA_CF4/)
+[https://ecored-sena.github.io/ELABORACION_PRENDAS_MEDIDA_CF7/](https://ecored-sena.github.io/ELABORACION_PRENDAS_MEDIDA_CF7/)
 
 #
 

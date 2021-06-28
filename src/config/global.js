@@ -427,7 +427,7 @@ export default {
       texto:
         'Mora, L. (2011). Elaboración de camisa para niño, joven y adulto. Primera etapa.',
       tipo: 'PDF',
-      descarga: '/downloads/CF7_Anexo_1_Secretos_Buena_Modista.pdf',
+      descarga: '/downloads/CF7_Anexo2_Proceso_Confeccion_Camisa_Masculino.pdf',
     },
 
     {

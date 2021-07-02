@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Confección de prendas de vestir',
     descripcionCurso:
-      'La confección de prendas de vestir es fundamental en la formación técnica en el aprendiz, por ello es importante tener la trazabilidad en herramientas, maquinarias e insumos, así mismo es importante establecer cómo se utilizan de acuerdo con los procesos operacionales según la prenda. En este sentido, será importante abordar la confección de prendas en la línea masculina y femenina, comprendiendo cómo los procesos se pueden combinar en respuesta a la interpretación de patrones que generen la materialización de productos que son dispuestos en la confección industrial y en prendas de vestir sobre medidas, a su vez se abordarán procesos importantes en la labor como es la supervisión de acabados y terminados teniendo en cuenta criterios técnicos y de calidad.',
+      'La confección de prendas de vestir es fundamental en la formación técnica en el aprendiz, por ello es importante tener la trazabilidad en herramientas, maquinarias e insumos, así mismo es importante establecer cómo se utilizan de acuerdo con los procesos operacionales según la prenda.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -206,7 +206,7 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Yenny Patricia Ulloa villamziar',
+        nombre: 'Magdi Khalifah Gamboa',
         cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
@@ -222,12 +222,6 @@ export default {
     ],
   },
   referencias: [
-    {
-      referencia:
-        'Carrera de diseño y gestión de moda. (2015). Técnicas de patronaje. Tomo II - Hombre. Universidad Peruana de Ciencias Aplicadas (UPC).',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/41258',
-    },
     {
       referencia:
         'Pellegrino, A. (2010) Detalles constructivos - delantero y espalda exterior. [Infografía].',
@@ -352,12 +346,6 @@ export default {
   ],
   complementario: [
     {
-      texto:
-        'SENA. (2011). Manual de patronaje básico e interpretación de diseños. Centro de Manufactura en Textiles y Cuero.',
-      tipo: 'Manual',
-      descarga: '/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf',
-    },
-    {
       texto: 'SENA.  (2020). Puesta a punto máquina recubridora.',
       tipo: 'Video',
       link:
@@ -433,7 +421,8 @@ export default {
     {
       texto: 'SENA, (2021). Maquinaria, herramienta e insumos.',
       tipo: 'PDF',
-      descarga: '/downloads/CF7_Anexo_1_Secretos_Buena_Modista.pdf',
+      descarga:
+        '/downloads/CF7_Anexo3_Maquinaria_Herramientas_InsumosDisenadoraInstruccional.docx',
     },
   ],
 }

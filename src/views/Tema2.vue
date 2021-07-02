@@ -8,14 +8,14 @@
         span 2
       h1 Confección de prendas femeninas
 
-    .row.d-flex.p-4.justify-content-center.mb-5
-      .col-lg-6
+    .row.d-flex.p-3.justify-content-center.mb-5
+      .col-lg-6.d-flex
         figure
           img(src='@/assets/curso/tema_2/img_1.png', alt='Confección de prendas femeninas')
-      .col-lg-6
-        .jumbo_1.p-4
-          .jumbo_2.p-4
-            p En el proceso de confección o ensamble de prendas masculinas y femeninas desde el que hacer de un modisto o sastre, se requiere el manejo y dominio básico de las máquinas de coser y sus aditamentos en el momento de elaborar cualquier tipo de prenda, si bien la destreza en el manejo es importante, se debe tener claro que todo molde, patrón, plano o desarrollo de diseño se acompaña de una ruta u orden operacional como especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo.
+      .col-lg-6.d-flex
+        .jumbo_1.p-3
+          .jumbo_2.p-2
+            p.mb-0 En el proceso de confección o ensamble de prendas masculinas y femeninas desde el que hacer de un modisto o sastre, se requiere el manejo y dominio básico de las máquinas de coser y sus aditamentos en el momento de elaborar cualquier tipo de prenda, si bien la destreza en el manejo es importante, se debe tener claro que todo molde, patrón, plano o desarrollo de diseño se acompaña de una ruta u orden operacional como especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo.
 
     .titulo-segundo
       #t_2_1.h2 2.1 Trazo básico blusa
@@ -75,7 +75,7 @@
               .video
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/lFwR6RcFwIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-          .row.d-flex.p-4(numero="5" titulo="Introducción: Marcaciones sobre la tela y corte de la falda clásica")
+          .row.d-flex.p-4(numero="5" titulo="Introducción: marcaciones sobre la tela y corte de la falda clásica")
             figure
               .video
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/typAdUPaeSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -90,7 +90,7 @@
               .video
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/AZAY9W7RLwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-          .row.d-flex.p-4(numero="8" titulo="Introducción: Confección de la falda clásica según normas de calidad")
+          .row.d-flex.p-4(numero="8" titulo="Introducción: confección de la falda clásica según normas de calidad")
             figure
               .video
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/aRcvWsb5mUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -102,19 +102,19 @@
 
     .row.justify-content-center
       .col-lg-8
-        a.mb-5.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenin.pdf')" target="_blank")
+        a.mb-5.anexo(:href="obtenerLink('/downloads/PDF2_Cremalleras.docx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Las cremalleras
             p.mb-0 Conoce el proceso de confección de las cremalleras. 
-        a.mb-5.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenin.pdf')" target="_blank")
+        a.mb-5.anexo(:href="obtenerLink('/downloads/PDF3_Punos.docx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Los puños
             p.mb-0 Conoce el proceso de confección de los puños.
-        a.mb-5.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenin.pdf')" target="_blank")
+        a.mb-5.anexo(:href="obtenerLink('/downloads/PDF4_Cuellos.docx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

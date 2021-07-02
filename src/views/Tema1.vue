@@ -34,16 +34,21 @@
     p.mb-5 Las condiciones bajo las cuales un trabajador desempeña su labor deben permitir que haya una sinergia entre el espacio y la labor, teniendo presente que su integridad física y psicológica es lo primero, dado que cuando estas condiciones de trabajo no son adecuadas o no cuentan con los elementos de protección, pueden acarrear algunas consecuencias como se observa en la figura 1. 
 
     p.BorTit Figura 1. Condiciones laborales
-    div.contenedor.mb-5
-      figure
-        img(src='@/assets/curso/tema_1/img_2.png', alt='División de moldes según el tipo de prenda')
-      div
-        p.texto-encima.jum_img.text-center.p-4 Aumento de la fatiga
-        p.texto-encima1.jum_img.p-4 Aumento en accidentes laborales en los espacios de trabajo
-        p.texto-encima2.jum_img.text-center.p-4 Enfermedades profesionales
-        p.texto-encima3.jum_img.text-center.p-4 Tensión nerviosa
-        p.texto-encima4.jum_img.text-center.p-4 Disminución en la producción y resultados
-        p.texto-encima5.jum_img.text-center.p-4 Insatisfacción, desinterés etc.
+    .row.p-5.bg01.rounded.mb-4
+      .col-lg-4
+        p.rounded.w-100.jum_img.p-4.text-center Aumento de la fatiga
+        p.rounded.w-100.jum_img.p-4.text-center Aumento en accidentes laborales en los espacios de trabajo
+        p.rounded.w-100.jum_img.p-4.text-center Enfermedades profesionales
+        p.rounded.w-100.jum_img.p-4.text-center Tensión nerviosa
+        p.rounded.w-100.jum_img.p-4.text-center Disminución en la producción y resultados
+        p.rounded.w-100.jum_img.p-4.text-center Insatisfacción, desinterés etc.
+      .col-lg-8
+        
+        
+
+      
+
+       
     
     p.mb-5 Estos factores pueden incidir directamente en la baja de la producción y afectar a la empresa a nivel general, si bien la producción es importante, se debe tener presente que el principal recurso y más importante, es el humano por lo que se debe priorizar su bienestar. A continuación, se relacionan algunos elementos importantes para tener en cuenta: 
 
@@ -81,7 +86,7 @@
                   tr
                     th Clase de actividad
                     th Intensidad de iluminación recomendada
-                tbody
+                tbody.td_color_3
                   tr
                     td Recinto destinado solo a estancia orientación
                     td 60 lux
@@ -89,13 +94,13 @@
                     td Trabajos en los que el ojo debe percibir grandes detalles con elevados contrastes
                     td 120 - 150 lux
                   tr
-                    td Trabajos en los que el ojo debe percibir grandes detalles con elevados contrastes
+                    td Actividades que conllevan la necesidad de reconocer detalles con reducidos contrastes
                     td 500 - 700 lux
                   tr
                     td Trabajos de precisión que requieren un reconocimiento de detalles muy  precisos con unos contrastes muy reducidos
                     td 1000 - 5100 lux
                   tr
-                    td Trabajos en los que el ojo debe percibir grandes detalles con elevados contrastes
+                    td Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
                     td 2000 - 3000 lux
 
           .row.d-flex.p-4(numero="4" titulo="Ventilación")
@@ -167,7 +172,7 @@
 
     .row.justify-content-center
       .col-lg-9
-        a.mb-5.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenina.pdf')" target="_blank")
+        a.mb-5.anexo(:href="obtenerLink('/downloads/CF7_Anexo3_Maquinaria_Herramientas_InsumosDisenadoraInstruccional.docx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

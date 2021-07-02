@@ -42,7 +42,7 @@
         img.img-b(src='@/assets/curso/tema_4/img_3.png', alt='control de calidad')
 
     .row.mb-5
-      .col-lg-7
+      .col-lg-8
         div.bloque_txt
           .jumbo_3.p-4
             p Existen tipos de requisitos relacionados con:
@@ -124,8 +124,8 @@
         figure
           img.img-a(src='@/assets/curso/tema_4/img_5.png', alt='Confección de prendas femeninas')
       .col-lg-6
-        .jumbo_1.p-4
-          .jumbo_2.p-4
+        .jumbo_1.p-3
+          .jumbo_2.p-2
             p También se conoce la estrategia de mejora de procesos Six Sigma, que se centra en la reducción de su variabilidad, reforzando y optimizando cada parte uno de los procesos para reducir o eliminar los defectos del producto y se conoce por sus siglas en inglés DMAIC: Definir, Medir, Analizar, Mejorar y Controlar.
 
     .titulo-segundo
@@ -138,19 +138,19 @@
 
     .row.justify-content-center.mb-5
       .col-lg-5
-        a.mb-5.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenin.pdf')" target="_blank")
+        a.mb-5.anexo(:href="obtenerLink('/downloads/entrega-sastreria_pc3a1gina_18.jpg')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Ficha técnica construcción.
 
-        a.mb-5.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenin.pdf')" target="_blank")
+        a.mb-5.anexo(:href="obtenerLink('/downloads/entrega-sastreria_pc3a1gina_21.jpg')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Ficha técnica elementos particulares.
 
-        a.mb-5.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenin.pdf')" target="_blank")
+        a.mb-5.anexo(:href="obtenerLink('/downloads/entrega-sastreria_pc3a1gina_23.jpg')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -163,7 +163,7 @@
 
     p El planchado es la última operación del proceso de producción, es necesario que las personas responsables de la sección tengan los criterios claros para evaluar las prendas que pasarán a las operaciones para la entrega al cliente.
 
-    p.mb-5 A continuación en la figura 3 se relacionan los requisitos de calidad en acabados que permiten revisar cada una de las actividades del proceso de acabados.
+    p.mb-5 A continuación, en la figura 3 se relacionan los requisitos de calidad en acabados que permiten revisar cada una de las actividades del proceso de acabados.
 
     p.BorTit Figura 3. Requisitos de calidad
     tr
@@ -190,7 +190,7 @@
 
     .row.justify-content-center.mt-5
       .col-lg-8
-        a.mb-5.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenin.pdf')" target="_blank")
+        a.mb-5.anexo(:href="obtenerLink('/downloads/PDF7_Lista_Chequeo_Acabado.docx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

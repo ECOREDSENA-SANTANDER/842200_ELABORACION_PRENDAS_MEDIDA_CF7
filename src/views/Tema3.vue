@@ -35,14 +35,14 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8
-        a.mb-5.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenin.pdf')" target="_blank")
+        a.mb-5.anexo(:href="obtenerLink('/downloads/PDF5_Modos_Abrochados.docx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Modos de brochados 
             p.mb-0 Conoce los diferentes modos de brochados con corchetes, cierres a presión o botones.
 
-        a.anexo(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenin.pdf')" target="_blank")
+        a.anexo(:href="obtenerLink('/downloads/PDF6_Bolsillos.docx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -286,7 +286,7 @@
               ol.lista-ol
                 li 
                   span.text-bold 1. 
-                  | Montaje de Cierre, Cremallera, Corredera o Zipper (Aletilla y Aletillón)
+                  | Montaje de cierre, cremallera, corredera o zipper (aletilla y aletillón)
             td Para el montaje de una cremallera con sistema de aletilla y aletillón, es necesario identificar cada una de las piezas y tener en cuenta que los acabados los pasos para el ensamble y el desarrollo pueden variar.
           tr
             td 
@@ -308,7 +308,7 @@
                 li 
                   span.text-bold 4. 
                   | Montaje de Pretina
-            td ?
+            td 
 
     .row.justify-content-center.mb-5
       .col-lg-11
@@ -334,7 +334,7 @@
         tbody
           tr
             td Operaciones preparación:
-            td Pechera, cuello, bolsillo entre otras.
+            td Pechera, cuello, bolsillo, entre otras.
           tr
             td Operaciones ensamble:
             td Unir por hombros, montar mangas, cerrar por costados, dobladillar ruedo, entre otras.
@@ -350,13 +350,13 @@
         tbody
           tr
             td Operaciones preparación:
-            td Colocar bolsillo lateral, bolsillos posteriores, unir forro entre otras.
+            td Colocar bolsillo lateral, bolsillos posteriores, unir forro, entre otras.
           tr
             td Operaciones ensamble:
-            td Unir por entrepierna, unir por costados, pegar elástico incluyendo forro, dobladillar botas entre otras.
+            td Unir por entrepierna, unir por costados, pegar elástico incluyendo forro, dobladillar botas, entre otras.
           tr
             td Operaciones de terminados:
-            td Revisar, empacar entre otras.
+            td Revisar, empacar, entre otras.
 
 
 

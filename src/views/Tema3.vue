@@ -268,7 +268,7 @@
             p Bolsillo de ribete sencillo.
 
           .row
-            p Montaje de Pretina.
+            p Montaje de pretina.
 
       .col-lg-4
         figure
@@ -307,7 +307,7 @@
               ol.lista-ol
                 li 
                   span.text-bold 4. 
-                  | Montaje de Pretina
+                  | Montaje de pretina
             td 
 
     .row.justify-content-center.mb-5

@@ -190,62 +190,22 @@
           .anexo__texto
             p.my-0 #[strong Anexo]. Operaciones básicas para el manejo de maquina fileteadora
             p.mb-0 Conoce sobre las operaciones que permiten unir piezas, hacer y rematar filetes. Visualizar del paso 1 al 3.
-        a.mb-5.anexo(href=('https://www.youtube.com/playlist?list=PLkc5n6npRWkgwVr7wtMSW-Sl_c6enzr_F') target="_blank")
+        a.mb-5.anexo(href=('https://www.youtube.com/playlist?list=PLkc5n6npRWkhTb-ZxfTMyvaAsWux7sGRt') target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. 
             p.mb-0 Puesta a punto máquina plana de una aguja
-            p.m-0 Conoce sobre la puesta a punto de las máquinas planas donde se realiza el enhebrado, prueba de costura, calificación, nivel de arrastre, entre otros. Visualizar del paso 1 al 10.
+            p.m-0 Conoce sobre la puesta a punto de las máquinas planas donde se realiza el enhebrado, prueba de costura, calificación, nivel de arrastre, entre otros. Visualizar del paso 1 al 3.
 
-        a.mb-5.anexo(href=('https://www.youtube.com/embed/m6Bda8bTNxk') target="_blank")
+        a.mb-5.anexo(href=('https://www.youtube.com/playlist?list=PLkc5n6npRWkgqtV0Y7c6L22_Gaf3nizKB') target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Operaciones básicas para el manejo en máquina plana una aguja.
-            p.mb-0 Conoce las operaciones básicas para realizar costuras rectas a ¼ pulgada.
+            p.mb-0 Conoce las operaciones básicas para realizar costuras rectas a ¼ pulgada , costuras alforzas de ¼ , costuras a alforzas de 16” , pegar bolsillo , bolsillo de ribete sencillo , bolsillo de ribete doble  y coser pechera sencilla.
 
-        a.mb-5.anexo(href=('https://www.youtube.com/embed/5vxh3RXCw8c') target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Operaciones básicas para el manejo en máquina plana una aguja.
-            p.mb-0 Conoce las operaciones básicas para realizar costuras alforzas de ¼. 
-
-        a.mb-5.anexo(href=('https://www.youtube.com/embed/Sv7X27S7MSE') target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Operaciones básicas para el manejo en máquina plana una aguja.
-            p.mb-0 Conoce las operaciones básicas para realizar costuras a alforzas de 16”. 
-
-        a.mb-5.anexo(href=('https://www.youtube.com/embed/fUW6xKvpzs0') target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Operaciones básicas para el manejo en máquina plana una aguja.
-            p.mb-0 Conoce las operaciones básicas para realizar pegar bolsillo. 
-
-        a.mb-5.anexo(href=('https://www.youtube.com/embed/wULIEdIahzE') target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Operaciones básicas para el manejo en máquina plana una aguja.
-            p.mb-0 Conoce las operaciones básicas para realizar bolsillo de ribete sencillo. 
-
-        a.mb-5.anexo(href=('https://www.youtube.com/embed/4kT8atODsIQ') target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Operaciones básicas para el manejo en máquina plana una aguja.
-            p.mb-0 Conoce las operaciones básicas para realizar bolsillo de ribete doble.
-
-        a.mb-5.anexo(href=('https://www.youtube.com/embed/V8PrD9bgvb8') target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Operaciones básicas para el manejo en máquina plana una aguja.
-            p.mb-0 Conoce las operaciones básicas para realizar coser pechera sencilla. 
+        
 
     
       

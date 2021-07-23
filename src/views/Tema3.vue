@@ -33,18 +33,41 @@
 
     p.mb-5 Se debe escoger una entretela de grosor medio para el delantero, parte de arriba de la espalda y cuello inferior; una ligera para falsos y el cuello superior, además, una más gruesa para la banda del cuello. Para finalizar se deben planchar las entretelas en su sitio, al revés de las piezas de tela.
 
+    .titulo-segundo
+      .h3 Modos de brochados 
+
+    .row.justify-content-center.mb-5
+      .col-lg-11
+        LineaTiempoD.color-secundario
+          .row.d-flex.p-4(numero="1" titulo="Pegar botones en máquina industrial")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/-K70PLQSdUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="2" titulo="Pegar broches en troqueladora")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkhYzQf6egkIdGOdQz5jfjXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="3" titulo="Ojalar en máquina familiar")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/x5N4Sq-SO4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="4" titulo="Ojalar en una máquina industrial")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/8Tct_--vXJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    
+
     .row.justify-content-center.mb-5
       .col-lg-8
-        a.mb-5.anexo(:href="obtenerLink('/downloads/PDF5_Modos_Abrochados.docx')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Modos de brochados 
-            p.mb-0 Conoce los diferentes modos de brochados con corchetes, cierres a presión o botones.
 
-        a.anexo(:href="obtenerLink('/downloads/PDF6_Bolsillos.docx')" target="_blank")
+        a.mb-5.anexo(href="https://www.youtube.com/playlist?list=PLkc5n6npRWkgVRfweAwWP8f3XuqEl0Ht5" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
+            img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Los bolsillos
             p.mb-0 Conoce la funcionalidad y decorativos de los bolsillos. 

@@ -23,10 +23,19 @@
 
     p.mb-5 Antes de iniciar cualquier actividad comprendida en la confección es importante que la persona se disponga físicamente para la labor, por ello se recomiendan algunos estiramientos y seguir algunos lineamientos.
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+
+    .tarjeta.color-primario.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/tema_1/img_10.png")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1 Ergonomía en el oficio de la modista y el sastre 
+            .col-sm-auto
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/INFOGRAFIA_Normas_generales_de_seguridad_para_la_labor_en_la_confeccion_de_prendas_corr.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
 
     .titulo-segundo
       #t_1_2.h2 1.2 Condiciones y espacios en el trabajo
@@ -190,20 +199,20 @@
           .anexo__texto
             p.my-0 #[strong Anexo]. Operaciones básicas para el manejo de maquina fileteadora
             p.mb-0 Conoce sobre las operaciones que permiten unir piezas, hacer y rematar filetes. Visualizar del paso 1 al 3.
-        a.mb-5.anexo(href=('https://www.youtube.com/playlist?list=PLkc5n6npRWkhTb-ZxfTMyvaAsWux7sGRt') target="_blank")
+        a.mb-5.anexo(href=('https://youtube.com/playlist?list=PLkc5n6npRWkgwVr7wtMSW-Sl_c6enzr_F') target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. 
             p.mb-0 Puesta a punto máquina plana de una aguja
-            p.m-0 Conoce sobre la puesta a punto de las máquinas planas donde se realiza el enhebrado, prueba de costura, calificación, nivel de arrastre, entre otros. Visualizar del paso 1 al 3.
+            p.m-0 Conoce sobre la puesta a punto de las máquinas planas donde se realiza el enhebrado, prueba de costura, calificación, nivel de arrastre, entre otros. Visualizar del paso 1 al 10.
 
         a.mb-5.anexo(href=('https://www.youtube.com/playlist?list=PLkc5n6npRWkgqtV0Y7c6L22_Gaf3nizKB') target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Operaciones básicas para el manejo en máquina plana una aguja.
-            p.mb-0 Conoce las operaciones básicas para realizar costuras rectas a ¼ pulgada , costuras alforzas de ¼ , costuras a alforzas de 16” , pegar bolsillo , bolsillo de ribete sencillo , bolsillo de ribete doble  y coser pechera sencilla.
+            p.mb-0 Conoce las operaciones básicas para realizar costuras rectas a ¼ pulgada, costuras alforzas de ¼, costuras a alforzas de 16”, pegar bolsillo, bolsillo de ribete sencillo, bolsillo de ribete doble  y coser pechera sencilla.
 
         
 

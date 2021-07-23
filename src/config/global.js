@@ -138,10 +138,13 @@ export default {
     ],
   },
   creditos: {
-    liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
-    },
+    liderEquipo: [
+      {
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
+      },
+    ],
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',

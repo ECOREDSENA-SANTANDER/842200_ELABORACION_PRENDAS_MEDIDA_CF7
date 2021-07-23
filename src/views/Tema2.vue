@@ -22,7 +22,7 @@
 
     p.mb-5 Es necesario que para la confección de la falda clásica se tengan los elementos que fueron previamente trazados y patronados, así como el material textil, cierre e insumos necesarios para generar los acabados. 
 
-     .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-11
         LineaTiempoD.color-secundario
           .row.d-flex.p-4(numero="1" titulo="Ruta operacional de la falda")
@@ -100,26 +100,74 @@
 
     p.mb-5 En la confección de complementos se encuentran diversos insumos que aportan a la prenda, soportes, ajustes, volumen, estructura, entre otros, por ello, se realizará un recorrido sobre la confección de prendas de vestir. 
 
-    .row.justify-content-center
+    .titulo-segundo
+      .h3 Las cremalleras
+
+    .row.justify-content-center.mb-5
+      .col-lg-11
+        LineaTiempoD.color-secundario
+          .row.d-flex.p-4(numero="1" titulo="Cremalleras centradas")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkgBKly0NckVUVxPlzB7ccZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="2" titulo="Cremallera solapa")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkj3Id2_r0_8FvLUBaouFdtR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="3" titulo="Cremallera invisible")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkg8umIqeD9QxpOpgHbOYG4f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="4" titulo="Cremallera separable")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkh14CJ4vpIDySWMuaMMFspZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    .row.justify-content-center.mb-5
       .col-lg-8
-        a.mb-5.anexo(:href="obtenerLink('/downloads/PDF2_Cremalleras.docx')" target="_blank")
+        a.mb-5.anexo(href="https://www.youtube.com/playlist?list=PLkc5n6npRWkhOf3moGiPGG4Lc2sJgp6GV" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Las cremalleras
-            p.mb-0 Conoce el proceso de confección de las cremalleras. 
-        a.mb-5.anexo(:href="obtenerLink('/downloads/PDF3_Punos.docx')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
+            img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Los puños
             p.mb-0 Conoce el proceso de confección de los puños.
-        a.mb-5.anexo(:href="obtenerLink('/downloads/PDF4_Cuellos.docx')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Los cuellos
-            p.mb-0 Conoce el proceso de confección de los cuellos.
+              
+    .titulo-segundo
+      .h3 Los cuellos
+
+    .row.justify-content-center.mb-5
+      .col-lg-11
+        LineaTiempoD.color-secundario
+          .row.d-flex.p-4(numero="1" titulo="Cuello con vista")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkhCN6E11DN3EwHLFs2cnf1d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="2" titulo="Cuello tirilla o nerú")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkiM1jZm3Lai9cmFY6G4oSm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="3" titulo="Cuello sport")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkhumU1m6eX7ygOaMHvmFaxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="4" titulo="Cuellos con banda")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkhehGKsAC0oovbkLr6gPnRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .row.d-flex.p-4(numero="5" titulo="Cuello solapa sastre")
+            .col-lg-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkh4QI_FVhXEU7xB112YLs8N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 
     
 

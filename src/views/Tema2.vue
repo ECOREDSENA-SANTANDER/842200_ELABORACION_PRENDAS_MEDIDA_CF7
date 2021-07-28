@@ -110,7 +110,7 @@
             .col-lg-12
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkgBKly0NckVUVxPlzB7ccZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/JuybSgcdDj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           .row.d-flex.p-4(numero="2" titulo="Cremallera solapada")
             .col-lg-12
               figure

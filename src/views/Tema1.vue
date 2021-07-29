@@ -207,7 +207,7 @@
             p.mb-0 Puesta a punto máquina plana de una aguja
             p.m-0 Conoce sobre la puesta a punto de las máquinas planas donde se realiza el enhebrado, prueba de costura, calificación, nivel de arrastre, entre otros. Visualizar del paso 1 al 10.
 
-        a.mb-5.anexo(href=('https://www.youtube.com/playlist?list=PLkc5n6npRWkgqtV0Y7c6L22_Gaf3nizKB') target="_blank")
+        a.mb-5.anexo(href=('https://www.youtube.com/playlist?list=PLkc5n6npRWkg-t8atqD_zdbYU_5n2N3Tj') target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto

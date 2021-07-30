@@ -336,10 +336,10 @@
     .row.justify-content-center.mb-5
       .col-lg-11
         LineaTiempoD.color-secundario
-          .row.d-flex.p-4(numero="1" titulo="Confección  del pantalón de sudadera")
+          .row.d-flex.p-4(numero="1" titulo="Confección del pantalón de sudadera")
             figure
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/3ddl46WHcDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             
           .row.d-flex.p-4(numero="2" titulo="Confección del pantalón para caballero")
             figure

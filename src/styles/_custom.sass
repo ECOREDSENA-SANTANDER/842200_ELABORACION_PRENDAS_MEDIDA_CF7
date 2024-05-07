@@ -1,3 +1,49 @@
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 8%
+    left: 15%
+
+  &-2
+    width: 25%
+    animation: float2 4.5s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    left: -15%
+  &-3
+    animation: float3 4.5s ease-in-out infinite alternate
+    position: absolute
+    top: 68%
+    right: 0%
+
+@keyframes float1
+  0%
+    transform: translateY(30px)
+  100%
+    transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+@keyframes float3
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+
+.banner-principal__img 
+  padding-bottom: 0 !important;
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
+  color: $color-sistema-texto !important  
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero,
+.cajon.color-acento-contenido
+    background-color: $color-acento-contenido  !important
+
 .img-a 
   display: block 
   margin: auto   
@@ -78,10 +124,8 @@
   
 
 .bg01
-  background-image: url("../assets/curso/tema_1/img_2.png")
-  background-size: cover
-  background-repeat: no-repeat
-  background-position: center
+  background-color: $color-acento-contenido
+  border-radius: 20px
 
 .jum_img
   background-color: #FFEAD4

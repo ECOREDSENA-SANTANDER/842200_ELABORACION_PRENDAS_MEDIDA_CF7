@@ -1,8 +1,8 @@
-# **Confección de prendas de vestir**
+# **ecoredsena-base v7.0.1**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ELABORACION_PRENDAS_MEDIDA_CF7/](https://ecored-sena.github.io/ELABORACION_PRENDAS_MEDIDA_CF7/)
+[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
 
 #
 
@@ -61,3 +61,6 @@ npm run lint
 ![instrucciones despues del primer push](src/assets/template/pasos.jpg 'Title')
 
 #
+
+## **Documentacion AOS**
+[https://github.com/michalsnik/aos](https://github.com/michalsnik/aos)

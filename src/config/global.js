@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Confección de prendas de vestir',
     descripcionCurso:
-      'La confección de prendas de vestir es fundamental en la formación técnica en el aprendiz, por ello es importante tener la trazabilidad en herramientas, maquinarias e insumos, así mismo es importante establecer cómo se utilizan de acuerdo con los procesos operacionales según la prenda.',
+      'La formación técnica en confección de ropa es crucial para el aprendiz, enfocándose en la trazabilidad de herramientas, maquinarias e insumos, y en cómo se utilizan en procesos operacionales. Es vital abordar la confección en líneas masculinas y femeninas, integrando la interpretación de patrones para la creación de productos industriales y a medida, incluyendo la supervisión de acabados con criterios técnicos de calidad.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [

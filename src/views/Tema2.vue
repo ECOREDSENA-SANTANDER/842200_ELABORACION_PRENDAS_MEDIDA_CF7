@@ -22,7 +22,7 @@
     p.mb-5 Es necesario que para la confección de la falda clásica se tengan los elementos que fueron previamente trazados y patronados, así como el material textil, cierre e insumos necesarios para generar los acabados. 
 
     .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-2
+      .col-sm-12.col-lg-2.d-none.d-lg-block
         img.img-a(src='@/assets/curso/tema_2/img_2.png', alt='falda')
       .col-sm-12.col-lg-4
         .fw-bold.mb-5 Ruta operacional de la falda

@@ -19,9 +19,9 @@
     #t_2_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.1 Trazo básico blusa
 
-    p.mb-5 Es necesario que para la confección de la falda clásica se tengan los elementos que fueron previamente trazados y patronados, así como el material textil, cierre e insumos necesarios para generar los acabados. 
+    p.mb-5(data-aos="zoom-in-left") Es necesario que para la confección de la falda clásica se tengan los elementos que fueron previamente trazados y patronados, así como el material textil, cierre e insumos necesarios para generar los acabados. 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-2.d-none.d-lg-block
         img.img-a(src='@/assets/curso/tema_2/img_2.png', alt='falda')
       .col-sm-12.col-lg-4
@@ -64,7 +64,7 @@
         p.mb-5 A continuación se presentarán algunos videos de apoyo para el alistamiento de recursos para la elaboración de la falda.
 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         .tarjeta.color-acento-contenido.p-3.mb-5
           .row.justify-content-around.align-items-center
@@ -124,9 +124,9 @@
     #t_2_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.2 Confección de complementos     
 
-    p.mb-5 En la confección de complementos se encuentran diversos insumos que aportan a la prenda, soportes, ajustes, volumen, estructura, entre otros, por ello, se realizará un recorrido sobre la confección de prendas de vestir. 
+    p.mb-5(data-aos="zoom-in-left") En la confección de complementos se encuentran diversos insumos que aportan a la prenda, soportes, ajustes, volumen, estructura, entre otros, por ello, se realizará un recorrido sobre la confección de prendas de vestir. 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .tarjeta.color-acento-contenido.p-3
           .row.justify-content-around.align-items-center

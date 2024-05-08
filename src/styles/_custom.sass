@@ -44,6 +44,48 @@
 .cajon.color-acento-contenido
     background-color: $color-acento-contenido  !important
 
+.cajon.color-acento-contenido:before
+   background-color: $color-primario
+
+.bg01
+  background-color: $color-acento-contenido
+  border-radius: 20px
+.bg02
+  background-color: #F1FBF9
+  border-radius: 0px !important
+  position: relative
+  top: -15px
+  z-index: 0
+
+.bgimg01
+  background-image: url('../assets/curso/tema_1/img_1.png');
+
+
+.tabs-c 
+    border-bottom: 0 !important
+.tabs-c__tab--active
+  z-index: 1
+
+.tabla-a.color-acento-botones thead 
+    border-color: $color-acento-contenido;
+
+.text-left
+  text-align: left !important
+.lista-ul--color li > i:first-of-type
+  color: $color-acento-botones
+
+
+.tarjeta.color-acento-contenido
+  border-radius: 15px !important
+.h-anexo
+    height: 190px;
+    display: flex;
+    align-items: center; 
+.h-anexo-2
+    height: 215px;
+    display: flex;
+    align-items: center; 
+
 .img-a 
   display: block 
   margin: auto   
@@ -123,9 +165,7 @@
   height: auto
   
 
-.bg01
-  background-color: $color-acento-contenido
-  border-radius: 20px
+
 
 .jum_img
   background-color: #FFEAD4
@@ -136,8 +176,6 @@
   left: 50%
   transform: translate(-50%, -50%)
 
-.tabla-a.color-acento-botones thead
-  border-color: #EA3065
 
 .bloque-texto-a.color-secundario:before
   background-color: #FED2A2
@@ -233,3 +271,6 @@
 
 
 
+@media screen and (max-width: $bp-max-sm)
+  .h-anexo, .h-anexo-2
+    height: auto

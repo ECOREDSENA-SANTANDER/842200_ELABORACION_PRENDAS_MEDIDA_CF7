@@ -1,0 +1,19 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.186" y1="0.16" x2="0.605" y2="0.841" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b71c1c"/>
+      <stop offset="1" stop-color="#b71c1c" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.274" y1="0.199" x2="0.809" y2="0.789" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Color">
+    <g id="_02.YouTube" data-name="02.YouTube">
+      <circle id="Background" cx="40" cy="40" r="40" fill="red"/>
+      <g id="Shadow" transform="translate(22.109 27.234)">
+        <path id="Trazado_774811" data-name="Trazado 774811" d="M76.583,70.225,65.46,76.678V63.74Z" transform="translate(-53.028 -57.545)" fill="url(#linear-gradient)"/>
+        <path id="Trazado_774812" data-name="Trazado 774812" d="M99.23,72.484a40.139,40.139,0,0,1-31.422,31.5L41.9,78.077a7.915,7.915,0,0,0,4.891,1.673H73.037A7.984,7.984,0,0,0,81,71.761V57.567A7.957,7.957,0,0,0,78.752,52Z" transform="translate(-41.9 -52)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <path id="Icon" d="M70.229,47.41H43.984A7.984,7.984,0,0,0,36,55.4V69.593a7.984,7.984,0,0,0,7.984,7.989H70.229a7.984,7.984,0,0,0,7.984-7.989V55.4A7.984,7.984,0,0,0,70.229,47.41ZM51.545,68.965V56.027L62.668,62.5Z" transform="translate(-17.004 -22.598)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -35,26 +35,23 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
+
         numero: '1',
         titulo: 'Maquinaria, herramientas e insumos para la confección',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-play-circle',
             numero: '1.1',
             titulo:
               'Normas generales de seguridad para la labor en la confección de prendas',
             hash: 't_1_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '1.2',
             titulo: 'Condiciones y espacios en el trabajo',
             hash: 't_1_2',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '1.3',
             titulo: 'Maquinaria, herramientas e insumos',
             hash: 't_1_3',
@@ -63,19 +60,17 @@ export default {
       },
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
+
         numero: '2',
         titulo: 'Confección de prendas femeninas',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-play-circle',
             numero: '2.1',
             titulo: 'Orden operacional de la falda',
             hash: 't_2_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '2.2',
             titulo: 'Confección de complementos',
             hash: 't_2_2',
@@ -84,38 +79,33 @@ export default {
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-play-circle ',
         numero: '3',
         titulo: 'Confección de prendas masculinas',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
+
         numero: '4',
         titulo: 'Revisión y procesos de calidad en una prenda',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '4.1',
             titulo: 'Control de calidad en industrial textil y confección',
             hash: 't_4_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '4.2',
             titulo: 'Cultura de calidad',
             hash: 't_4_2',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '4.3',
             titulo: 'Puntos de control en producto terminado',
             hash: 't_4_3',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '4.4',
             titulo: 'Control de Calidad en terminados',
             hash: 't_4_4',
@@ -124,6 +114,12 @@ export default {
       },
     ],
     subMenu: [
+      {
+        icono: 'fas fa-sitemap',
+        titulo: 'Síntesis',
+        nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -140,6 +136,11 @@ export default {
         nombreRuta: 'referencias',
       },
       {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/material.pdf',
+      },
+      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
@@ -148,93 +149,6 @@ export default {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
-      },
-    ],
-  },
-  creditos: {
-    liderEquipo: [
-      {
-        nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
-        centro: 'Dirección General',
-      },
-    ],
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Leidy Johana Velásquez Hernández',
-        cargo: 'Experta temática',
-        centro: 'Diseño, Confección y Moda',
-        regional: 'Regional Antioquía',
-      },
-      {
-        nombre: 'Paola Angélica Castro Salazar',
-        cargo: 'Experta temática',
-        centro: 'Diseño, Confección y Moda',
-        regional: 'Regional Antioquía',
-      },
-      {
-        nombre: 'Paula Andrea Taborda Ortiz ',
-        cargo: 'Diseñadora instruccional ',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Carolina Coca Salazar',
-        cargo: 'Revisora metodológica y pedagógica',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Jhon Jairo Rodríguez Pérez',
-        cargo: 'Diseñador y evaluador instruccional',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Luis Gabriel Urueta Alvarez',
-        cargo: 'Diseño web ',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Ricardo Alonso González Vargas',
-        cargo: 'Desarrollo Front-End',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Magdi Khalifah Gamboa',
-        cargo: 'Validación de diseño y contenido',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
       },
     ],
   },
@@ -363,45 +277,53 @@ export default {
   ],
   complementario: [
     {
-      texto: 'SENA.  (2020). Puesta a punto máquina recubridora.',
+      tema: '1. Maquinaria, herramientas e insumos para la confección',
+      referencia: 'SENA.  (2020). Puesta a punto máquina recubridora.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=YF8CMBsceyg&list=PLkc5n6npRWkgXccn8uyniZH0pbZiYdvsw',
     },
 
     {
-      texto: 'SENA.  (2020).  Inspección de insumos.',
+      tema: '1. Maquinaria, herramientas e insumos para la confección',
+      referencia: 'SENA.  (2020).  Inspección de insumos.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=HoLZv-WxqyU&t=138s',
     },
 
     {
-      texto:
+      tema: '1. Maquinaria, herramientas e insumos para la confección',
+      referencia:
         'SENA.  (2020).  Inspección producto en proceso área de patronaje y corte.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=EUH9LPWhh3k&t=95s',
     },
 
     {
-      texto: 'SENA.  (2020).  Inspección producto en proceso.',
+      tema: '1. Maquinaria, herramientas e insumos para la confección',
+
+      referencia: 'SENA.  (2020).  Inspección producto en proceso.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=xlPFRjssa2Q&t=3s',
     },
 
     {
-      texto: 'SENA.  (2020).  Inspección producto terminado.',
+      tema: '2. Confección de prendas femeninas',
+      referencia: 'SENA.  (2020).  Inspección producto terminado.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=I8adPpXG-n8&t=27s',
     },
 
     {
-      texto: 'SENA.  (2020).  Inspección de textiles.',
+      tema: '2. Confección de prendas femeninas',
+      referencia: 'SENA.  (2020).  Inspección de textiles.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=2IjwoiNJCDw&t=61s',
     },
 
     {
-      texto:
+      tema: '3. Confección de prendas masculinas',
+      referencia:
         'LaCostura diy. (2020). Confección de camisa Slim Fit para hombre.',
       tipo: 'Video',
       link:
@@ -409,36 +331,142 @@ export default {
     },
 
     {
-      texto:
+      tema: '3. Confección de prendas masculinas',
+      referencia:
         'Informativos.net. (2012). Cómo se confecciona una camisa artesanalmente.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=g7nLMKAMVVQ',
     },
 
     {
-      texto: 'SENA.  (2020).  Montaje de cremallera, aletilla y aletillón.',
+      tema: '3. Confección de prendas masculinas',
+      referencia:
+        'SENA.  (2020).  Montaje de cremallera, aletilla y aletillón.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=4pMSfzpnmYg&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
 
     {
-      texto: 'Knight, L.  (2012).  Secretos de la buena modista. Océano.',
+      tema: '4. Revisión y procesos de calidad en una prenda',
+      referencia: 'Knight, L.  (2012).  Secretos de la buena modista. Océano.',
       tipo: 'PDF',
       descarga: '/downloads/CF7_Anexo_1_Secretos_Buena_Modista.pdf',
     },
 
     {
-      texto:
+      tema: '4. Revisión y procesos de calidad en una prenda',
+      referencia:
         'Mora, L. (2011). Elaboración de camisa para niño, joven y adulto. Primera etapa.',
       tipo: 'PDF',
       descarga: '/downloads/CF7_Anexo2_Proceso_Confeccion_Camisa_Masculino.pdf',
     },
 
     {
-      texto: 'SENA, (2021). Maquinaria, herramienta e insumos.',
+      tema: '4. Revisión y procesos de calidad en una prenda',
+      referencia: 'SENA, (2021). Maquinaria, herramienta e insumos.',
       tipo: 'PDF',
       descarga: '/downloads/maquinaria_herramientas_insumos_vf_compressed.pdf',
     },
   ],
+  creditos: [
+    {
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
+    },
+    {
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Leidy Johana Velásquez Hernández',
+          cargo: 'Experta temática',
+          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+        },
+        {
+          nombre: 'Paola Angélica Castro Salazar',
+          cargo: 'Experta temática',
+          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+        },
+        {
+          nombre: 'Paula Andrea Taborda Ortiz ',
+          cargo: 'Diseñadora instruccional ',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Revisora metodológica y pedagógica',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Diseñador y evaluador instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Paola Morales Paez',
+          cargo: 'Evaluadora Instruccional ',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Edison Eduardo Mantilla Cuadros',
+          cargo: 'Diseñadora web',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Lizeth Karina Manchego Suarez',
+          cargo: 'Desarrolladora Full-Stack',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
+    },
+  ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
+  },
 }

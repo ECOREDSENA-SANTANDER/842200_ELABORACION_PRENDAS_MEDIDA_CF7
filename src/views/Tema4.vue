@@ -21,7 +21,7 @@
           span
             | Principios de calidad
         figure
-          img.img-a(src='@/assets/curso/tema_4/img_31.svg', alt='control de calidad')
+          img.img-a(src='@/assets/curso/tema_4/img_31.svg', alt='El presente esquema destaca nueve principios claves en un ciclo de mejora de calidad, que lleva a “Evita inspecciones masivas”, siguiendo con “Relación de precio y calidad”, luego a “Métodos modernos de capacitación y entrenamiento”, seguido de “Exigencia de la competitividad”, continuando con “Identificación del trabajador con sus funciones y su aporte con la calidad”, después “Eliminación de barreras entre áreas”, seguido de “Establece ruta de la calidad”, y finalmente cerrando el ciclo en “Transformación de la empresa hacia la calidad”. Las flechas sobre un fondo claro conectan cada concepto sucesivamente de izquierda a derecha, ilustrando un proceso de retroalimentación constante.')
 
     p.mb-5(data-aos="zoom-in-left") Una vez se tienen definidos los objetivos de calidad y los requisitos de calidad del producto, se entiende que se deben controlar las variaciones de esas características, cualidades o especificaciones exigidas sea por el cliente o de acuerdo con una norma. Para ello, existe el control estadístico, cuyo proceso está conformado por una serie de técnicas para analizar el comportamiento de las variaciones de los requisitos del producto con el fin de establecer acciones que mejoren el producto y su calidad, en pro de aumentar las ventas y la productividad de la empresa.
 
@@ -125,7 +125,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .cajon.color-acento-contenido.p-4
-          p  También se conoce la estrategia de mejora de procesos Six Sigma, que se centra en la reducción de su variabilidad, reforzando y optimizando cada parte uno de los procesos para reducir o eliminar los defectos del producto y se conoce por sus siglas en inglés DMAIC: Definir, Medir, Analizar, Mejorar y Controlar.
+          p  También se conoce la estrategia de mejora de procesos #[i Six Sigma ], que se centra en la reducción de su variabilidad, reforzando y optimizando cada parte uno de los procesos para reducir o eliminar los defectos del producto y se conoce por sus siglas en inglés DMAIC: Definir, Medir, Analizar, Mejorar y Controlar.
     .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
           img.img-a(src='@/assets/curso/tema_4/img_33.svg', alt='control de calidad')

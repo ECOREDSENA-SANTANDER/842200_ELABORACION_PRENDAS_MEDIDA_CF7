@@ -56,11 +56,28 @@
   position: relative
   top: -15px
   z-index: 0
+.bg03
+  background-color: #DCF5EF
+  border-radius: 15px
+
+.bgimg-slider
+  background-image: url('../assets/curso/tema_1/img_9.svg');
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center 
+
+.fullview
+  background: linear-gradient(to bottom, #fff 0%, #DCF5EF 4%, #DCF5EF 92%, #fff 100%,);
+  background-position: center
+  background-size: cover
+  margin-inline: -3.4rem
 
 .bgimg01
   background-image: url('../assets/curso/tema_1/img_1.png');
 .bgimg02
   background-image: url('../assets/curso/tema_2/img_1.png');
+.bgimg03
+  background-image: url('../assets/curso/tema_3/img_1.png');
 
 .tabs-c 
     border-bottom: 0 !important
@@ -72,7 +89,8 @@
 
 .text-left
   text-align: left !important
-.lista-ul--color li > i:first-of-type
+.lista-ul--color li > i:first-of-type,
+.lista-ol--color li > i:first-of-type
   color: $color-acento-botones
 .lista-ol--cuadro__vineta.color-primario 
   background-color:  $color-primario !important
@@ -87,6 +105,9 @@
     height: 215px;
     display: flex;
     align-items: center; 
+.horizontal-scroll
+  margin-top: 2em
+  align-items: start !important
 
 
 
@@ -190,25 +211,9 @@
 .bloque-texto-a.color-secundario
   background-color: #E8E8E8
 
-.pasos-a.color-primario .pasos-a__circle
-  background-color: #EA3065
 
-.pasos-a.color-primario .pasos-a__circle div
-  color: $white
 
-.pasos-a.color-primario .pasos-a__linea .hor-line
-  border-top-color: #EA3065
 
-.pasos-a.color-primario .pasos-a__linea__esquina__linea
-  border-top-color: #EA3065 !important
-  border-color: #EA3065 !important
-
-.pasos-a.color-primario .pasos-a__numero::after
-  border-left-color: #EA3065
-
-.table_th
-  background-color: #EA3065
-  color: $white !important
 
 .img-b
   margin-left: 600px
@@ -273,7 +278,9 @@
   border-radius: 5px 
 
 
-
+@media screen and (max-width: $bp-max-md)
+  .mb-cus
+    margin-bottom: 2em 
 
 
 
@@ -281,3 +288,5 @@
 @media screen and (max-width: $bp-max-sm)
   .h-anexo, .h-anexo-2
     height: auto
+  .mb-cus
+    margin-bottom: 2em 

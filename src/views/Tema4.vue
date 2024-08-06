@@ -30,18 +30,17 @@
         .col-sm-12.col-lg-4.mb-cus
             img.img-a(src='@/assets/curso/tema_4/img_2.svg', alt='control de calidad')
         .col-sm-12.col-lg-8
-          p El control de calidad no sólo está encaminado a la inspección del producto terminado, sino al proceso de producción y la materia prima e insumos. En sí, es la traducción de las necesidades y expectativas del cliente, para lo cual se tienen tres niveles:
-          
+          p El control de calidad no se limita solo a la inspección del producto terminado, sino que también abarca el proceso de producción, la materia prima y los insumos. En esencia, es la traducción de las necesidades y expectativas del cliente. Para ello, se consideran tres niveles:
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye
-              | #[strong Necesidades:] el producto debe ser funcional, resolver el problema, tener una entrega oportuna, respetar el precio acordado y tener en cuenta su vida útil.
-            li 
+              span #[strong Necesidades:] el producto debe ser funcional, resolver el problema, tener una entrega oportuna, respetar el precio acordado y tener en cuenta su vida útil.
+            li.d-flex 
               i.fas.fa-bullseye
-              | #[strong Expectativas:] debe presentar satisfacción, dando importancia al cliente, teniendo un trato cordial y amable, pero, además, haciéndolo sentir importante. 
-            li 
+              span #[strong Expectativas:] debe brindar satisfacción al cliente, con un trato cordial y amable, haciendo que se sienta valorado e importante.
+            li.d-flex 
               i.fas.fa-bullseye
-              | #[strong Superar expectativas:] es el valor agregado del producto, lo que no se espera porque incrementa la satisfacción, la cual se puede centrar en la asistencia técnica, los descuentos y tiempos de entrega. 
+              span #[strong Superar expectativas:] es el valor agregado del producto, lo que no se espera porque incrementa la satisfacción, la cual se puede centrar en la asistencia técnica, los descuentos y tiempos de entrega. 
         
     .row.justify-content-center.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
@@ -50,27 +49,27 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Función del producto, referente a su desempeño, lo cual responde a la pregunta para qué sirve.
-            li 
+              span Función del producto, referente a su desempeño, lo cual responde a la pregunta para qué sirve.
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Características técnicas, sobre la cantidad, peso, tamaño, color, entre otras.
-            li 
+              span  Características técnicas, sobre la cantidad, peso, tamaño, color, entre otras.
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Condiciones de pago y precio.
-            li 
+              span  Condiciones de pago y precio.
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Plazos de entrega.
-            li 
+              span  Plazos de entrega.
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Especificaciones dadas por el cliente.
-            li 
+              span  Especificaciones dadas por el cliente.
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Mantenimientos y vida útil, con respecto a las instrucciones de uso y términos de garantía.
-            li 
+              span  Mantenimientos y vida útil, con respecto a las instrucciones de uso y términos de garantía.
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Legales, frente a las leyes y normas.
+              span  Legales, frente a las leyes y normas.
       .col-sm-12.col-lg-4
         img.img-a(src='@/assets/curso/tema_4/img_32.png', alt='control de calidad')
 
@@ -85,16 +84,16 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .cajon.color-acento-contenido.p-4
-          p El control de calidad se hace a partir de la planificación, la cual establece un plan y programa de calidad, las técnicas y métodos a utilizar, entre ellos, la muestra y el lote; el alistamiento de los recursos, para proyectar los instrumentos de medición como cintas métricas, calibradores y planillas; la implementación de técnicas; los registros de mediciones y controles; y el análisis para la definición de acciones correctivas desde las causas y efectos.
+          p.mb-0 El control de calidad comienza con la planificación, que establece un plan y programa de calidad, así como las técnicas y métodos a utilizar, incluyendo la muestra y el lote. Esta etapa también involucra el alistamiento de recursos, como cintas métricas, calibradores y planillas de medición. Luego, se implementan las técnicas, se registran las mediciones y controles, y finalmente se realiza un análisis para definir acciones correctivas basadas en las causas y efectos identificados.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
-            p La mejora continua permite prever ocurrencias de no conformidad en la toma de decisiones, y para ello la comunicación interna también debe estar bien organizada, contar con un sistema de comunicación adecuado para evitar duplicidades de información que afecten negativamente la gestión de la calidad. Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo Deming, también conocido como el PHVA  o espiral de mejora continua, sobre el cual se construyen los sistemas de gestión. Los beneficios de implementar las herramientas para controlar la calidad son:
+            p.mb-0 La mejora continua permite prever ocurrencias de no conformidad en la toma de decisiones, y para ello la comunicación interna también debe estar bien organizada, contar con un sistema de comunicación adecuado para evitar duplicidades de información que afecten negativamente la gestión de la calidad. 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5
           img.img-a(src='@/assets/curso/tema_4/img_4.png', alt='control de calidad')
 
       .col-sm-12.col-lg-5
-        p.mb-5 Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo Deming, también conocido como el PHVA  o espiral de mejora continua, sobre el cual se construyen los sistemas de gestión. Los beneficios de implementar las herramientas para controlar la calidad son:
+        p.mb-5 Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo #[i Deming], también conocido como el PHVA  o espiral de mejora continua, sobre el cual se construyen los sistemas de gestión. Los beneficios de implementar las herramientas para controlar la calidad son:
         ul.lista-ul--color
           li 
             i.fas.fa-bullseye
@@ -125,7 +124,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .cajon.color-acento-contenido.p-4
-          p  También se conoce la estrategia de mejora de procesos #[i Six Sigma ], que se centra en la reducción de su variabilidad, reforzando y optimizando cada parte uno de los procesos para reducir o eliminar los defectos del producto y se conoce por sus siglas en inglés DMAIC: Definir, Medir, Analizar, Mejorar y Controlar.
+          p.mb-0.fw-bold También se conoce la estrategia de mejora de procesos #[i Six Sigma ], que se centra en la reducción de su variabilidad, reforzando y optimizando cada parte. Vale la pena mencionar que, uno de los procesos para reducir o eliminar los defectos del producto, se conoce por sus siglas en inglés DMAIC: Definir, Medir, Analizar, Mejorar y Controlar.
     .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
           img.img-a(src='@/assets/curso/tema_4/img_33.svg', alt='control de calidad')
@@ -170,7 +169,11 @@
     p.mb-5(data-aos="zoom-in-left") A continuación, se relacionan los requisitos de calidad en acabados que permiten revisar cada una de las actividades del proceso de acabados.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
-        table.table-cus
+        .titulo-sexto.color-acento-contenido.mx-4
+          h5 Figura 3.
+          span
+            | Requisitos de calidad
+        table.table-cus(alt='La imagen expone un cuadro que lista y describe procesos clave en la confección textil, como requisitos de calidad: "Planchado", con énfasis en uniformidad y control de temperatura para evitar arrugas; "Empaque", que requiere el uso adecuado de recursos como ganchos, bolsas y etiquetas; "Embalaje", centrado en la correcta utilización de materiales para organizar y proteger el contenido; "Estampados", donde se destaca la uniformidad de diseño y colocación; "Bordados", con atención en la tensión del hilo y correspondencia con el diseño; "Rebordados", que deben alinearse adecuadamente con la colocación de pedrería; y "Lavandería", que debe asegurar uniformidad de colores y la integridad del tejido. Cada proceso está acompañado de una descripción específica de los estándares de calidad requeridos.')
           tr
             th.td_color_1.td-card.text-center Planchado
             td.td_color_2 Debe ser uniforme, hacer quiebres según lo especificado, si se debe doblar que no genere arrugas. Debe haber un control adecuado en la temperatura para que no queme; además de una buena limpieza, controlando la presión y humedad.

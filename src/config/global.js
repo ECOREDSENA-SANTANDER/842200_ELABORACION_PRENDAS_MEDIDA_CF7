@@ -390,33 +390,33 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
+          cargo: 'Asesor Pedagógico',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Leidy Johana Velásquez Hernández',
-          cargo: 'Experta temática',
+          cargo: 'Experta Temática',
           centro: 'Diseño, Confección y Moda - Regional Antioquía',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Experta temática',
+          cargo: 'Experta Temática',
           centro: 'Diseño, Confección y Moda - Regional Antioquía',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz ',
-          cargo: 'Diseñadora instruccional ',
+          cargo: 'Diseñadora Instruccional ',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Revisora metodológica y pedagógica',
+          cargo: 'Revisora Metodológica y Pedagógica',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Diseñador y evaluador instruccional',
+          cargo: 'Diseñador y Evaluador Instruccional',
           centro:
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
@@ -432,12 +432,12 @@ export default {
       autores: [
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
-          cargo: 'Diseñadora web',
+          cargo: 'Diseñador web',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora Full-Stack',
+          cargo: 'Desarrolladora <i>Full-Stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -445,16 +445,6 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',

@@ -9,13 +9,12 @@
       h1 Maquinaria, herramientas e insumos para la confección
 
     .row.justify-content-center(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-10
+      .col-sm-12.col-lg-12
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img.bgimg01
-          .bloque-texto-g__texto.p-4
-            p El oficio de la costura y la confección de prendas implica varios procesos, desde la manipulación del textil cortado hasta la ejecución, usando maquinaria de acuerdo con cada proceso. Estos procesos implican la manipulación de sujetadores y de arranques en los que el operario es su principal actor, ya que asegura el funcionamiento correcto de cada una de estas partes. Al tener presente que la persona está implícita dentro de cada uno de estos procesos es importante tener presente las normas de seguridad, así como conocer sobre ergonomía dentro de la labor del costurero.
-    p.mb-5(data-aos="zoom-in-left") La ergonomía se distingue entre la industrial y la biomecánica, está última más encaminada hacia lo ocupacional, dado que se centra en aspectos físicos relacionados con el trabajo, capacidades de fuerza y postura, teniendo presente tareas repetitivas por periodos de tiempos determinados. 
-
+          .bloque-texto-g__texto.p-4.d-flex.flex-column
+            p El oficio de la costura y la confección de prendas implica varios procesos, desde la manipulación del textil cortado hasta la ejecución utilizando maquinaria específica para cada etapa. Estos procesos requieren la manipulación de sujetadores y mecanismos de arranque, donde el operario es el principal actor, asegurando el correcto funcionamiento de cada parte. Dado que la persona está involucrada en cada uno de estos procesos, es fundamental tener en cuenta las normas de seguridad y el conocimiento sobre ergonomía en el trabajo del costurero.
+            p.mb-0 La ergonomía se distingue entre la industrial y la biomecánica. Esta última, más enfocada en el ámbito ocupacional, se centra en aspectos físicos relacionados con el trabajo, tales como capacidades de fuerza y postura, teniendo en cuenta tareas repetitivas durante periodos de tiempo prolongados.
      
     Separador  
     #t_1_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
@@ -41,14 +40,12 @@
           h5 Figura 1.
           span
             | Condiciones laborales
-        img.img-a(src='@/assets/curso/tema_1/img_2.svg', alt='La imagen muestra un gráfico compuesto por seis bloques de texto con fondo de distintos tonos de verde. Cada bloque señala una consecuencia negativa de malas condiciones laborales: “Aumento de la fatiga”, “Aumento en accidentes laborales en los espacios de trabajo”, “Enfermedades profesionales”, “Tensión nerviosa”, “Disminución en la producción y resultados”, e “Insatisfacción, desinterés etc.”')
+        img.img-a(src='@/assets/curso/tema_1/img_2.svg', alt='La imagen presenta un gráfico compuesto por seis bloques de texto con fondo de distintos tonos de verde. Cada bloque señala una consecuencia negativa de malas condiciones laborales: “Aumento de la fatiga”, “Aumento en accidentes laborales en los espacios de trabajo”, “Enfermedades profesionales”, “Tensión nerviosa”, “Disminución en la producción y resultados”, e “Insatisfacción, desinterés etc.”')
        
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .cajon.color-acento-contenido.p-4
-          p Estos factores pueden incidir directamente en la baja de la producción y afectar a la empresa a nivel general, si bien la producción es importante, se debe tener presente que el principal recurso y más importante, es el humano por lo que se debe priorizar su bienestar. A continuación, se relacionan algunos elementos importantes para tener en cuenta: 
-
-
+          p.mb-0.fw-bold Estos factores pueden incidir directamente en la disminución de la producción y afectar a la empresa en general. Si bien la producción es importante, se debe recordar que el recurso más valioso es el humano, por lo que es fundamental priorizar su bienestar.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6
           p A continuación, se relacionan algunos elementos importantes para tener en cuenta:
@@ -60,16 +57,14 @@
           .col-sm-12.col-lg-4.d-none.d-lg-block
               img.img-a(src='@/assets/curso/tema_1/img_3.svg', alt='Temperatura')
           .col-sm-12.col-lg-8
-            p Influye directamente en el bienestar del trabajador, en su rendimiento y seguridad, una excesiva temperatura ya sea de frío o calor puede producir fatiga, requiriendo tiempos extendidos de recuperación o descanso, en este caso se vigila la humedad del ambiente. En el caso de los talleres en los que la maquinaria por lo general suele ser industrial se genera una mayor temperatura. La condición recomendada para una buena zona de confort es 18°C. 
-
+            p Influye directamente en el bienestar del trabajador, en su rendimiento y seguridad, una excesiva temperatura ya sea de frío o calor puede producir fatiga, requiriendo tiempos extendidos de recuperación o descanso, en este caso se vigila la humedad del ambiente. En el caso de los talleres en los que la maquinaria por lo general suele ser industrial se genera una mayor temperatura. La condición recomendada para una buena zona de #[i confort] es 18 °C.
           
       .tarjeta.bg02.p-4(titulo="Ruido")
         .row.align-items-center
           .col-sm-12.col-lg-4.d-none.d-lg-block
             img.img-a(src='@/assets/curso/tema_1/img_4.png', alt='Iluminación')
           .col-sm-12.col-lg-8
-            p Las operaciones mecanizadas, el ruido de las máquinas y el espacio en el lugar o puesto de trabajo, también pueden llegar a generar molestias dado que se pueden producir sonidos de media vibración constante, esto a nivel auditivo conlleva el uso de protectores auditivos como audífonos, especiales para esta labor, sobre todo en fábricas que suelen tener un gran número de máquinas. Si el lugar de trabajo excede el número de decibeles mínimo (50 – 80) es sugerible emplearlos. Algunas de las molestias presentadas son: efectos patológicos, fatiga, confusión, pérdida de audición.
-
+            p Las operaciones mecanizadas y el ruido de las máquinas, junto con el espacio de trabajo, pueden generar molestias debido a las vibraciones constantes. Esto, a nivel auditivo, requiere el uso de protectores auditivos, como audífonos especiales para esta labor, especialmente en fábricas con un gran número de máquinas. Si el nivel de ruido en el lugar de trabajo excede los decibeles mínimos recomendados (50-80), es aconsejable utilizarlos. Algunas de las molestias que pueden presentarse incluyen efectos patológicos, fatiga, confusión y pérdida de audición.
 
       .tarjeta.bg02.p-4(titulo="Iluminación")
         .row.align-items-center
@@ -79,7 +74,7 @@
 
         p.BorTit #[b Tabla 1.] Intensidad de la iluminación
         .tabla-a.color-acento-botones.mb-5 
-          table
+          table(alt='La tabla presenta las intensidades de iluminación recomendadas para diferentes clases de actividades, desde estancias de orientación con 60 lux, trabajos con grandes detalles y altos contrastes (120-150 lux), hasta actividades que requieren reconocimiento de detalles con bajos contrastes (500-700 lux). Además, se especifican intensidades mayores para trabajos de precisión con reconocimiento de detalles muy precisos, con contrastes reducidos, variando entre 1000-5100 lux y 2000-3000 lux según la exigencia de precisión. La fuente citada es Huaman (2003) sobre iluminación interior con luz artificial.')
             caption Nota. Iluminación de interior con luz artificial. Huaman (2003).
             thead
               tr
@@ -87,19 +82,19 @@
                 th.text-left Intensidad de iluminación recomendada
             tbody.td_color_3
               tr
-                td Recinto destinado solo a estancia orientación
+                td Recinto destinado solo a estancia orientación.
                 td 60 lux
               tr
-                td Trabajos en los que el ojo debe percibir grandes detalles con elevados contrastes
+                td Trabajos en los que el ojo debe percibir grandes detalles con elevados contrastes.
                 td 120 - 150 lux
               tr
-                td Actividades que conllevan la necesidad de reconocer detalles con reducidos contrastes
+                td Actividades que conllevan la necesidad de reconocer detalles con reducidos contrastes.
                 td 500 - 700 lux
               tr
-                td Trabajos de precisión que requieren un reconocimiento de detalles muy  precisos con unos contrastes muy reducidos
+                td Trabajos de precisión que requieren un reconocimiento de detalles muy  precisos con unos contrastes muy reducidos.
                 td 1000 - 5100 lux
               tr
-                td Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
+                td Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos.
                 td 2000 - 3000 lux
 
       .tarjeta.bg02.p-4(titulo="Ventilación")
@@ -131,15 +126,15 @@
             .row.justify-content-center
               .col-lg-11
                 ul.lista-ul--color
-                  li 
+                  li.d-flex
                     i.fas.fa-bullseye
-                    | #[strong El trabajador:] sobre la persona que desarrolla la actividad debe considerarse la estatura, peso, fuerza, rangos de movimiento y características físicas generales, estableciendo el espacio que ocupará en cuanto a mesas, sillas, etc.
-                  li 
+                    span #[strong El trabajador:] sobre la persona que desarrolla la actividad debe considerarse la estatura, peso, fuerza, rangos de movimiento y características físicas generales, estableciendo el espacio que ocupará en cuanto a mesas, sillas, etc.
+                  li.d-flex 
                     i.fas.fa-bullseye 
-                    | #[strong El puesto de trabajo:] comprende la maquinaria, herramientas, mobiliario, controladores, puntos de luz, ambientación y objetos de trabajo.
-                  li 
+                    span #[strong El puesto de trabajo:] comprende la maquinaria, herramientas, mobiliario, controladores, puntos de luz, ambientación y objetos de trabajo.
+                  li.d-flex 
                     i.fas.fa-bullseye 
-                    | #[strong Ambiente de trabajo:] tiene en cuenta la temperatura, iluminación, ruido, vibraciones y demás características implícitas en el bienestar del trabajador.
+                    span #[strong Ambiente de trabajo:] tiene en cuenta la temperatura, iluminación, ruido, vibraciones y demás características implícitas en el bienestar del trabajador.
 
         p.mt-5 Para prevenir las lesiones se debe considerar:
         ul.lista-ul--color
@@ -160,69 +155,13 @@
     #t_1_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 1.3 Maquinaria, herramientas e insumos 
 
-    p.mb-5(data-aos="zoom-in-left") Conocer sobre la maquinaria, sus partes y funcionamiento contribuye a una orientación óptima de las actividades dentro de la confección, por ello es importante conocerlas al detalle, siguiendo el siguiente archivo para su lectura y apropiación.
+    p.mb-5 Conocer la maquinaria, sus partes y su funcionamiento contribuye a una ejecución óptima de las actividades dentro de la confección. Por ello, es fundamental entender estos aspectos en detalle, para lo cual se recomienda explorar el siguiente archivo para su lectura y apropiación.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left") 
       .col-sm-12.col-lg-6
         img.img-a(src='@/assets/curso/tema_1/img_8.svg', alt='Ruido')
 
-    .row.justify-content-center(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-6
-        .tarjeta.color-acento-contenido.p-3.mb-5.h-anexo
-          .row.justify-content-around.align-items-center
-            .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src="@/assets/template/icono-pdf.svg")
-            .col-sm-12.col-lg-10
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Anexo. Maquinaria, herramientas e insumos.
-                  p Conoce los tipos de máquina (plana 1 con aguja, sobrehiladora y recubridora) y sus partes.
-                .col-sm-auto
-                  a.boton.color-boton(:href="obtenerLink('/downloads/maquinaria_herramientas_insumos_vf_compressed.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
-      .col-sm-12.col-lg-6
-        .tarjeta.color-acento-contenido.p-3.mb-5.h-anexo
-          .row.justify-content-around.align-items-center
-            .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src="@/assets/template/icono-video.svg")
-            .col-sm-12.col-lg-10
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Video. Puesta a punto de máquina fileteadora con puntada de seguridad. 
-                  p Conoce el manejo de la fileteadora. Desde el alistamiento de herramienta, limpieza, enhebrado, tensión, calibración, entre otros. Visualizar del paso 1 al 13.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/playlist?list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C" target="_blank")
-                    span Ir al video
-                    i.fas.fa-video
-    .row.justify-content-center(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-6
-        .tarjeta.color-acento-contenido.p-3.mb-5.h-anexo-2
-          .row.justify-content-around.align-items-center
-            .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src="@/assets/template/icono-video.svg")
-            .col-sm-12.col-lg-10
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Video. Operaciones básicas para el manejo de maquina fileteadora.
-                  p Conoce sobre las operaciones que permiten unir piezas, hacer y rematar filetes. Visualizar del paso 1 al 3.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/playlist?list=PLkc5n6npRWkhq9z8eUd2qXfN43M08IM-3" target="_blank")
-                    span Ir al video
-                    i.fas.fa-video
-      .col-sm-12.col-lg-6
-        .tarjeta.color-acento-contenido.p-3.mb-5.h-anexo-2
-          .row.justify-content-around.align-items-center
-            .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src="@/assets/template/icono-video.svg")
-            .col-sm-12.col-lg-10
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Video. Puesta a punto máquina plana de una aguja.
-                  p Conoce sobre la puesta a punto de las máquinas planas donde se realiza el enhebrado, prueba de costura, calificación, nivel de arrastre, entre otros. Visualizar del paso 1 al 10.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://youtube.com/playlist?list=PLkc5n6npRWkgwVr7wtMSW-Sl_c6enzr_F" target="_blank")
-                    span Ir al video
-                    i.fas.fa-video
+   
+  
         
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6
@@ -231,54 +170,106 @@
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src="@/assets/template/icono-video.svg")
             .col-sm-12.col-lg-10
-              p.mb-0 Video. Operaciones básicas para el manejo en máquina plana una aguja.
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Conoce las operaciones básicas para realizar costuras rectas a ¼ pulgada.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=gNh5E95Nu2A&list=PLkc5n6npRWkg-t8atqD_zdbYU_5n2N3Tj&index=1&pp=iAQB" target="_blank").mb-1
+              
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 1
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/BlsIooZH9gg?list=PLkc5n6npR" target="_blank")
                     span Ir al video
                     i.fas.fa-video        
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Costuras alforzas de ¼.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=ETNhQQna0Og&list=PLkc5n6npRWkg-t8atqD_zdbYU_5n2N3Tj&index=2&pp=iAQB" target="_blank").mb-1
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 2
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/wtHBYpvY2qg?list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Costuras a alforzas de 16”
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=p2ddUTi8oos&list=PLkc5n6npRWkg-t8atqD_zdbYU_5n2N3Tj&index=3&pp=iAQB" target="_blank").mb-1
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 3
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/e3VIQuI2CPc" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Pegar bolsillo
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=eRgj2OfEYLY&list=PLkc5n6npRWkg-t8atqD_zdbYU_5n2N3Tj&index=4&pp=iAQB" target="_blank").mb-1
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 4
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/C60vi8djPhA" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Bolsillo de ribete sencillo
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=2oITvUtsmVg&list=PLkc5n6npRWkg-t8atqD_zdbYU_5n2N3Tj&index=5&pp=iAQB" target="_blank").mb-1
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 5
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/7MPnUCYW0Qg" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Bolsillo de ribete doble  
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=JL7oaiNEfE8&list=PLkc5n6npRWkg-t8atqD_zdbYU_5n2N3Tj&index=6&pp=iAQB" target="_blank").mb-1
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 6
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/Y4GHFnR_Hq0" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Coser pechera sencilla.
-                .col-sm-auto
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=0fFYyi9YZ4c&list=PLkc5n6npRWkg-t8atqD_zdbYU_5n2N3Tj&index=7&pp=iAQB" target="_blank").mb-1
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 7
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/Y_KBM8O2lIY" target="_blank").mb-0
+                    span Ir al video
+                    i.fas.fa-video
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 8
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/uv3mjlOymIE" target="_blank").mb-0
+                    span Ir al video
+                    i.fas.fa-video
+
+
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 9
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/PMS6lRthWnQ" target="_blank").mb-0
+                    span Ir al video
+                    i.fas.fa-video
+
+
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 10
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/Cf2gPlXy88s" target="_blank").mb-0
+                    span Ir al video
+                    i.fas.fa-video
+
+
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 11
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/Nz1r5rl-xXQ" target="_blank").mb-0
+                    span Ir al video
+                    i.fas.fa-video
+
+
+              .row.justify-content-between.align-items-center.bb-steps.my-1
+                .col
+                  p.py-0 Paso 12
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/Omjyi5Wbq_8" target="_blank").mb-0
+                    span Ir al video
+                    i.fas.fa-video
+
+
+              .row.justify-content-between.align-items-center.my-1
+                .col
+                  p.py-0 Paso 13
+                .col-sm-auto.pb-1
+                  a.boton.color-boton.py-0(href="https://youtu.be/SqvF1VSJouU" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
 

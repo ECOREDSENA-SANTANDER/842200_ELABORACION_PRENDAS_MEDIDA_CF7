@@ -13,64 +13,33 @@
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img.bgimg03
           .bloque-texto-g__texto.p-4
-            p Un picado en cuello o solapa sirve para unir la entretela con la tela, realizando puntadas a mano de 1/2 cm paralelo a la línea del quiebre de la solapa, el siguiente punto se daría a 1 cm hacia abajo o hacia arriba, dependiendo de la dirección que se esté siguiendo. Este punto arriba y abajo va poco a poco formando una especie de espiga. Se debe tener presente que no se vean las puntadas por debajo.
-            
+            p.mb-0 Un picado en cuello o solapa se utiliza para unir la entretela con la tela, realizando puntadas a mano de 1/2 cm paralelas a la línea del quiebre de la solapa. El siguiente punto se hace a 1 cm hacia abajo o hacia arriba, dependiendo de la dirección que se esté siguiendo. Este patrón de puntadas arriba y abajo va formando poco a poco una especie de espiga. Es importante asegurarse de que las puntadas no sean visibles desde el lado exterior.
     
-    p.mb-5(data-aos="zoom-in-left") El proceso del picado no ha de hacerse de forma plana, por el contrario, se enrolla la solapa con la tela por debajo para que vaya cogiendo forma por sí sola. Esto le da a la solapa un vuelo con un claro sello de artesanía. Si se ha hecho bien la solapa no se levantará, lo que permitirá que se pegue al pecho con una ligera línea curva dando como resultado una bonita solapa. De acuerdo a esto, se debe tener en cuenta: 
+    p.mb-5(data-aos="zoom-in-left") El proceso del picado no debe realizarse de forma plana. En su lugar, se enrolla la solapa con la tela por debajo para que adquiera forma por sí sola. Esto le da a la solapa un vuelo característico con un claro sello de artesanía. Si se realiza correctamente, la solapa no se levantará, permitiendo que se ajuste al pecho con una ligera línea curva, dando como resultado una bonita solapa. De acuerdo con esto, se debe tener en cuenta:
     .row.mb-5.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
           img(src='@/assets/curso/tema_3/img_17.png', alt='Confección de prendas masculinas')
       .col-sm-12.col-lg-4
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye
-              | #[strong Embaste:] las capas de entretela y forro se cosen al revés de la tela con pequeñas puntadas diagonales llamadas embastes, que sujetan las tres telas y controlan la forma de las solapas y del cuello. 
-            li 
+              span #[strong Embaste:] las capas de entretela y forro se cosen al revés de la tela con pequeñas puntadas diagonales llamadas embastes, que sujetan las tres telas y controlan la forma de las solapas y del cuello. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | #[strong Punto escapulario:] se usa para fijar las tiras a los bordes de una prenda de sastre. 
-            li 
+              span #[strong Punto escapulario:] se usa para fijar las tiras a los bordes de una prenda de sastre. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | #[strong Preparación:] une todas las entretelas al cuerpo de la chaqueta y termina las costuras de los hombros.
+              span #[strong Preparación:] une todas las entretelas al cuerpo de la chaqueta y termina las costuras de los hombros.
       
 
     p.mb-5(data-aos="zoom-in-left") Se debe escoger una entretela de grosor medio para el delantero, parte de arriba de la espalda y cuello inferior; una ligera para falsos y el cuello superior, además, una más gruesa para la banda del cuello. Para finalizar se deben planchar las entretelas en su sitio, al revés de las piezas de tela.
 
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-6.mb-cus
-          .tarjeta.color-acento-contenido.p-3
-            .row.justify-content-around.align-items-center
-              .col-sm-12.col-lg-2.d-none.d-lg-block
-                img(src="@/assets/template/icono-pdf.svg")
-              .col-sm-12.col-lg-10
-                .row.justify-content-between.align-items-center
-                  .col.mb-3.mb-sm-0
-                    p.mb-0 Anexo. Modos de brochados.
-                    p Conoce los diferentes modos de brochados con corchetes, cierres a presión o botones.
-                  .col-sm-auto
-                    a.boton.color-boton(href="https://www.youtube.com/embed/" target="_blank").mb-1
-                      span Ir al PDF
-                      i.fas.fa-file-pdf  
-      .col-sm-12.col-lg-6
-        .tarjeta.color-acento-contenido.p-3
-            .row.justify-content-around.align-items-center
-              .col-sm-12.col-lg-2.d-none.d-lg-block
-                img(src="@/assets/template/icono-pdf.svg")
-              .col-sm-12.col-lg-10
-                .row.justify-content-between.align-items-center
-                  .col.mb-3.mb-sm-0
-                    p.mb-0 Anexo. Los bolsillos.
-                    p Conoce las funcionalidad y decorativos de los bolsillos. 
-                  .col-sm-auto
-                    a.boton.color-boton(href="https://www.youtube.com/embed/" target="_blank").mb-1
-                      span Ir al PDF
-                      i.fas.fa-file-pdf  
 
     
     h3.mb-5(data-aos="zoom-in-left") Orden operacional de confección masculina
-    p.mb-4(data-aos="zoom-in-left") Cuando se habla de ruta u orden operacional, corresponde al paso a paso por operación y con tiempos para llevar a cabo el desarrollo de una prenda. Las operaciones corresponden al ensamble de una de las piezas, partes o detalles que componen una prenda, la finalidad es poder tener el ensamble de pieza por pieza, para unir cada una de ellas, a través de una serie de ejercicios con diferentes ejemplos trazos, cortes, formas, que al final permitirán el ensamble, para este caso, la camisa, el pantalón y las prendas en tejido de punto.
-
-    p.mb-5(data-aos="zoom-in-left") A continuación, se conocerá la ruta de orden operacional para una camisa:
+    p.mb-4(data-aos="zoom-in-left") Cuando se habla de ruta u orden operacional, se refiere al paso a paso de cada operación con sus tiempos correspondientes para llevar a cabo el desarrollo de una prenda. Las operaciones incluyen el ensamblaje de las piezas, partes o detalles que componen una prenda. El objetivo es ensamblar cada pieza por separado y luego unirlas todas mediante una serie de ejercicios con diferentes ejemplos de trazos, cortes y formas. Al final, esto permitirá el ensamblaje completo de prendas como camisas, pantalones y prendas de tejido de punto.
+    p.mb-5(data-aos="zoom-in-left") A continuación, se presenta la ruta de orden operacional para una camisa:
 
    
     LineaTiempoC.color-acento-botones.bgimg-slider.p-5.mb-5(data-aos="zoom-in-left")
@@ -80,27 +49,27 @@
         .col-sm-12.col-lg-8
           .fw-bold.mb-5 Preparación de cuellos
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Fusionar el cuello centrando las entretelas sobre la tela del cuello, dejando 1cm de margen de costura por contorno. 
-            li 
+              span  Fusionar el cuello centrando las entretelas sobre la tela del cuello, dejando 1cm de margen de costura por contorno. 
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Coser el contorno a ½ cm en la parte de arriba del cuello, rematando costura al iniciar y al terminar.
-            li 
+              span  Coser el contorno a ½ cm en la parte de arriba del cuello, rematando costura al iniciar y al terminar.
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Despuntar, desbastar o perfilar, la parte de la punta del cuello para afinar el acabado y al voltearlo guarde simetría.
-            li 
+              span  Despuntar, desbastar o perfilar, la parte de la punta del cuello para afinar el acabado y al voltearlo guarde simetría.
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Voltear el cuello y con la ayuda de las tijeras o con un punzón, definir las puntas cuidando no picar la pieza. 
-            li 
+              span  Voltear el cuello y con la ayuda de las tijeras o con un punzón, definir las puntas cuidando no picar la pieza. 
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Juntar las puntas y verificar simetría antes de pespuntear el cuello. 
-            li 
+              span  Juntar las puntas y verificar simetría antes de pespuntear el cuello. 
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Pespuntar al filo del cuello. Esta costura o pespunte puede variar según las especificaciones técnicas, a 1/16” o 1/ 4”. 
-            li 
+              span  Pespuntar al filo del cuello. Esta costura o pespunte puede variar según las especificaciones técnicas, a 1/16” o 1/ 4”. 
+            li.d-flex 
               i.fas.fa-bullseye
-              |  Rematar al inicio y al final del pespunte.
+              span  Rematar al inicio y al final del pespunte.
           
         
 
@@ -110,33 +79,33 @@
         .col-sm-12.col-lg-8
           .fw-bold.mb-5 Preparación de banda o pie de cuello
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Planchar o fusionar la entretela al pie de cuello vista, por la parte de atrás emparejando de arriba. 
-            li 
+              span Planchar o fusionar la entretela al pie de cuello vista, por la parte de atrás emparejando de arriba. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Doblar la parte que quedó sin entretela para hacer el dobladillo del pie de cuello. 
-            li 
+              span Doblar la parte que quedó sin entretela para hacer el dobladillo del pie de cuello. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Colocar el pie de cuello forro con la vista hacia arriba. 
-            li 
+              span Colocar el pie de cuello forro con la vista hacia arriba. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Colocar el cuello con la vista hacia arriba. Colocar el pie de cuello vista con la vista hacia abajo. 
-            li 
+              span Colocar el cuello con la vista hacia arriba. Colocar el pie de cuello vista con la vista hacia abajo. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Verificar que las 3 marcas del centro de las piezas coincidan, es decir, cuello con pie vista y pie forro. 
-            li 
+              span Verificar que las 3 marcas del centro de las piezas coincidan, es decir, cuello con pie vista y pie forro. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Realizar costura del centro hacia las orillas, primero una curva y después la otra, es decir, un lado y volteando el otro lado derecho. 
-            li 
+              span Realizar costura del centro hacia las orillas, primero una curva y después la otra, es decir, un lado y volteando el otro lado derecho. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Planchar la costura del pie del cuello y revisar que los 2 pies de cuello queden del mismo tamaño y las 2 puntas del cuello. 
-            li 
+              span Planchar la costura del pie del cuello y revisar que los 2 pies de cuello queden del mismo tamaño y las 2 puntas del cuello. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Verificar el ancho de puntas y la coincidencia de pie de cuello. 
-            li 
+              span Verificar el ancho de puntas y la coincidencia de pie de cuello. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Pespuntar al borde o filo del pie de cuello, el pespunte se realiza a 1 /16” o 1/4 “o según especificaciones técnicas.
+              span Pespuntar al borde o filo del pie de cuello, el pespunte se realiza a 1 /16” o 1/4 “o según especificaciones técnicas.
 
       .row(numero="3" titulo="Paso 3").lineac-cus
         .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -144,30 +113,30 @@
         .col-sm-12.col-lg-8
           .fw-bold.mb-5 Preparación de la pechera, extensión de botonadura o cruce
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Doblar el delantero izquierdo(planchar) hacia el forro de la tela del lado de la línea del ojal y botón, dejando una costura de 4 cm.
-            li 
+              span Doblar el delantero izquierdo(planchar) hacia el forro de la tela del lado de la línea del ojal y botón, dejando una costura de 4 cm.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Segundo doblez, planchar nuevamente de 4 cm.
-            li 
+              span Segundo doblez, planchar nuevamente de 4 cm.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Realizar un pespunte de ½ cm de la orilla del segundo doblez, del lado del delantero. No olvidar rematar siempre al inicio y al final de cada costura.
-            li 
+              span Realizar un pespunte de ½ cm de la orilla del segundo doblez, del lado del delantero. No olvidar rematar siempre al inicio y al final de cada costura.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Desdoblar el delantero y hagan una sobrecostura de ½ cm en la orilla del primer doblez, quedando formada la perilla.
-            li 
+              span Desdoblar el delantero y hagan una sobrecostura de ½ cm en la orilla del primer doblez, quedando formada la perilla.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Doblar por la parte de la línea del ojal y botón, al delantero derecho, quedando a 2 ½ cm terminado.
-            li 
+              span Doblar por la parte de la línea del ojal y botón, al delantero derecho, quedando a 2 ½ cm terminado.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Primer doblez, planchar el delantero derecho y doblar hacía dentro 1 cm, o hacia el forro.
-            li 
+              span Primer doblez, planchar el delantero derecho y doblar hacía dentro 1 cm, o hacia el forro.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Segundo doblez, enseguida doblar por la línea de las muescas 2 ½ cm, quedando el dobladillo dentro de la camisa y la vista hacia arriba. 
-            li 
+              span Segundo doblez, enseguida doblar por la línea de las muescas 2 ½ cm, quedando el dobladillo dentro de la camisa y la vista hacia arriba. 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Coser el delantero al filo por los 2 ½ cm planchados con la vista hacia abajo, es decir, al filo del primer doblez para terminar el dobladillo.
+              span Coser el delantero al filo por los 2 ½ cm planchados con la vista hacia abajo, es decir, al filo del primer doblez para terminar el dobladillo.
 
      
       .row(numero="4" titulo="Paso 4").lineac-cus
@@ -176,15 +145,15 @@
         .col-sm-12.col-lg-8
           .fw-bold.mb-5 Preparación y ensamble del bolsillo
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye 
-              | Doblar a 1 cm y doblar nuevamente a 2 ½ cm, es decir, donde se hicieron las muescas en la parte de arriba del bolsillo.
-            li 
+              span Doblar a 1 cm y doblar nuevamente a 2 ½ cm, es decir, donde se hicieron las muescas en la parte de arriba del bolsillo.
+            li.d-flex 
               i.fas.fa-bullseye 
-              | Hacer un pespunte al orillo del dobladillo de 2 ½ cm.
-            li 
+              span Hacer un pespunte al orillo del dobladillo de 2 ½ cm.
+            li.d-flex 
               i.fas.fa-bullseye 
-              | Pegar bolsillo prehormado en los piquetes de la parte delantera izquierda de la camisa, realizando un pespunte a 1 /16 “al orillo del bolsillo y con remate en el inicio y final.
+              span Pegar bolsillo prehormado en los piquetes de la parte delantera izquierda de la camisa, realizando un pespunte a 1 /16 “al orillo del bolsillo y con remate en el inicio y final.
 
       .row(numero="5" titulo="Paso 5").lineac-cus
         .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -192,30 +161,30 @@
         .col-sm-12.col-lg-8
           .fw-bold.mb-5 Preparación o ensamble de puño
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Fusionar los puños vista, posicionando la entretela con el pegamento por el revés de la tela de los puños vistas.
-            li 
+              span Fusionar los puños vista, posicionando la entretela con el pegamento por el revés de la tela de los puños vistas.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Dobladillar 1 cm la parte que quedó sin entretela para hacer el dobladillo.
-            li 
+              span Dobladillar 1 cm la parte que quedó sin entretela para hacer el dobladillo.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Colocar el puño forro con la vista hacia arriba.
-            li 
+              span Colocar el puño forro con la vista hacia arriba.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Colocar el puño vista hacia abajo, encima del puño forro.
-            li 
+              span Colocar el puño vista hacia abajo, encima del puño forro.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Coser el contorno del puño dejando ½ cm de pestaña en la parte de arriba. Es importante rematar al principio y al final de cada costura y coser de la misma manera el otro puño.
-            li 
+              span Coser el contorno del puño dejando ½ cm de pestaña en la parte de arriba. Es importante rematar al principio y al final de cada costura y coser de la misma manera el otro puño.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Si el puño es de puntas redondas, tengan mucho cuidado al pasar la costura para que no pierdan la forma.
-            li 
+              span Si el puño es de puntas redondas, tengan mucho cuidado al pasar la costura para que no pierdan la forma.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Voltear los puños, Revisar que las curvas de los puños queden iguales, un lado contra el otro.
-            li 
+              span Voltear los puños, Revisar que las curvas de los puños queden iguales, un lado contra el otro.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Planchar los puños y pasar un pespunte, alrededor de la orilla de los puños para mejor acabado. Este pespunte puede variar según las especificaciones técnicas 1/16 “o 1/4“. Este pespunte regularmente es igual al del cuello.
+              span Planchar los puños y pasar un pespunte, alrededor de la orilla de los puños para mejor acabado. Este pespunte puede variar según las especificaciones técnicas 1/16 “o 1/4“. Este pespunte regularmente es igual al del cuello.
 
     
       .row(numero="6" titulo="Paso 6").lineac-cus
@@ -224,30 +193,30 @@
         .col-sm-12.col-lg-8
           .fw-bold.mb-5 Preparación de espalda
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Pegar marquilla si se tiene al centro de la almilla o canesú forro por el derecho de la tela. Canesú o almilla forro con la vista tela hacia arriba
-            li 
+              span Pegar marquilla si se tiene al centro de la almilla o canesú forro por el derecho de la tela. Canesú o almilla forro con la vista tela hacia arriba
+            li.d-flex 
               i.fas.fa-bullseye
-              | Coser el pliegue o tablón de la espalda.
-            li 
+              span Coser el pliegue o tablón de la espalda.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Doblar las dos marcas de la espalda
-            li 
+              span Doblar las dos marcas de la espalda
+            li.d-flex 
               i.fas.fa-bullseye
-              | Cuidar que coincidan con la marca o piquetes del medio, hacer una costura de ½ cm encima del tablón o pliegue o fuelle, en la parte alta de la espalda, no olvidar rematar al inicio y al final de la costura.
-            li 
+              span Cuidar que coincidan con la marca o piquetes del medio, hacer una costura de ½ cm encima del tablón o pliegue o fuelle, en la parte alta de la espalda, no olvidar rematar al inicio y al final de la costura.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Colocar el forro de la bata con la vista hacia arriba, colocar la espalda con la vista hacia arriba, colocar la bata vista con la vista de la tela hacia abajo.
-            li 
+              span Colocar el forro de la bata con la vista hacia arriba, colocar la espalda con la vista hacia arriba, colocar la bata vista con la vista de la tela hacia abajo.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Juntar las 3 piezas para que queden parejas.
-            li 
+              span Juntar las 3 piezas para que queden parejas.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Unir con una costura dejando 1 cm de pestaña, rematando al inicio y al final.
-            li 
+              span Unir con una costura dejando 1 cm de pestaña, rematando al inicio y al final.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Pespunten pasando la costura en la orilla del canesú.
+              span Pespunten pasando la costura en la orilla del canesú.
 
       
       .row(numero="7" titulo="Paso 7").lineac-cus
@@ -256,27 +225,27 @@
         .col-sm-12.col-lg-8
           .fw-bold.mb-5 Preparación de portañuela
           ul.lista-ul--color
-            li 
+            li.d-flex 
               i.fas.fa-bullseye
-              | Doblar y planchar las portañuelas a 1 cm de ambos lados de las aletillas hacia el revés de la tela.
-            li 
+              span Doblar y planchar las portañuelas a 1 cm de ambos lados de las aletillas hacia el revés de la tela.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Coser primero manga y portañuela: Por uno de los lados planchados, pongan la manga con vista hacia abajo, y aletilla vista hacia abajo con una pestaña de 1 cm al pasar la costura por la “y” o marca.
-            li 
+              span Coser primero manga y portañuela: Por uno de los lados planchados, pongan la manga con vista hacia abajo, y aletilla vista hacia abajo con una pestaña de 1 cm al pasar la costura por la “y” o marca.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Voltear la portañuela y la manga y hagan sobrecostura, al filo de la aletilla, teniendo cuidado que la costura de abajo no se salga.
-            li 
+              span Voltear la portañuela y la manga y hagan sobrecostura, al filo de la aletilla, teniendo cuidado que la costura de abajo no se salga.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Encimar la aletilla para formar el pico, de tal manera que se identifique aletilla sobre aletilla. Debe quedar el pico de aletilla sobre aletilla para hacer el pespunte.
-            li 
+              span Encimar la aletilla para formar el pico, de tal manera que se identifique aletilla sobre aletilla. Debe quedar el pico de aletilla sobre aletilla para hacer el pespunte.
+            li.d-flex 
               i.fas.fa-bullseye
-              | El pico de la portañuela se forma con los dedos acomodando la parte de inferior con la parte superior se forma el pico.
-            li 
+              span El pico de la portañuela se forma con los dedos acomodando la parte de inferior con la parte superior se forma el pico.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Pasar pespunte al filo u orillo del pico de la portañuela y continuar hasta los 3 cm hacia abajo.
-            li 
+              span Pasar pespunte al filo u orillo del pico de la portañuela y continuar hasta los 3 cm hacia abajo.
+            li.d-flex 
               i.fas.fa-bullseye
-              | Cruzar la aletilla y terminar el pespunte donde empezaron.
+              span Cruzar la aletilla y terminar el pespunte donde empezaron.
 
      
       .row(numero="8" titulo="Paso 8").lineac-cus
@@ -317,84 +286,16 @@
                       span Ir al video
                       i.fas.fa-video    
       
-    p.mb-5(data-aos="zoom-in-left") A continuación, se conocerá la ruta de orden operacional para un pantalón:  
+    p.mb-5(data-aos="zoom-in-left") A continuación, se presenta la ruta de orden operacional para un pantalón:  
 
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
-        img(src='@/assets/curso/tema_3/img_26.svg', alt='falda')
+        img(src='@/assets/curso/tema_3/img_26.svg', alt='La imagen ilustra el proceso de plantillado, fusionado y preformado en cuatro pasos. El primer paso es el montaje de cierre, cremallera, corredera o zipper (aletilla y letillón). El segundo paso consiste en la reparación de bolsillos. El tercer paso es el montaje de un bolsillo de ribete sencillo, y el cuarto y último paso es el montaje de la pretina. Estos pasos forman un ciclo integral en la confección y ensamblaje de prendas de vestir.')
         
 
-    .tabla-a.color-acento-botones.mb-5(data-aos="zoom-in-left") 
-      table
-        thead
-          tr.text-center
-            th.text-left  Preparación de las piezas
-            th.text-center Proceso de plantillado fusionado y prehormado
-        tbody
-          tr
-            td 
-              ol.lista-ol
-                li 
-                  span.text-bold 1. 
-                  | Montaje de cierre, cremallera, corredera o zipper (aletilla y aletillón)
-            td Para el montaje de una cremallera con sistema de aletilla y aletillón, es necesario identificar cada una de las piezas y tener en cuenta que los acabados los pasos para el ensamble y el desarrollo pueden variar.
-          tr
-            td 
-              ol.lista-ol
-                li 
-                  span.text-bold 2. 
-                  | Preparación de bolsillos
-            td En la elaboración de bolsillos, existen diferentes tipos, formas y cantidad de piezas que permiten tener un óptimo desarrollo de la operación, es necesario identificar el tipo de prenda, material y calidad con la que se debe desarrollar la prenda, cada uno de estos elementos varían otorgando más operaciones.
-          tr
-            td 
-              ol.lista-ol
-                li 
-                  span.text-bold 3. 
-                  | Bolsillo de ribete sencillo
-            td Existen diferentes tipos de bolsillos de ribete, de igual manera infinidad de formas para confeccionarlos, se debe tener en cuenta que su orden varía dependiendo al tipo de complemento del bolsillo.
-          tr
-            td 
-              ol.lista-ol
-                li 
-                  span.text-bold 4. 
-                  | Montaje de pretina
-            td 
-    .fullview
-      .row.justify-content-center.mb-5.p-5(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-6.mb-cus
-            h4 Confección  del pantalón de sudadera
-            p.mb-5 Conoce sobre el alistamiento para la confección de la sudadera a partir de la reproducción de los 18 pasos que se relacionan a continuación:
-            .tarjeta.color-acento-contenido.p-3
-              .row.justify-content-around.align-items-center
-                .col-sm-12.col-lg-2.d-none.d-lg-block
-                  img(src="@/assets/template/icono-video.svg")
-                .col-sm-12.col-lg-10
-                  .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0
-                      p.mb-0 Video. Confección  del pantalón de sudadera.
-                    .col-sm-auto
-                      a.boton.color-boton(href="https://www.youtube.com/embed/3ddl46WHcDU" target="_blank").mb-1
-                        span Ir al video
-                        i.fas.fa-video  
-        .col-sm-12.col-lg-6
-          h4 Confección  del pantalón para caballero
-          p.mb-5 Conoce sobre el alistamiento para la confección de pantalón para caballero a partir de la reproducción del siguiente video: 
-          .tarjeta.color-acento-contenido.p-3
-              .row.justify-content-around.align-items-center
-                .col-sm-12.col-lg-2.d-none.d-lg-block
-                  img(src="@/assets/template/icono-video.svg")
-                .col-sm-12.col-lg-10
-                  .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0
-                      p.mb-0 Video. Confección  del pantalón para caballero. 
-                    .col-sm-auto
-                      a.boton.color-boton(href="https://www.youtube.com/embed/NHtzg2UrKHs" target="_blank").mb-1
-                        span Ir al video
-                        i.fas.fa-video  
-
-    p.mb-5(data-aos="zoom-in-left") A continuación, en la tabla 2 se conocerá la ruta de orden operacional para prendas en tejido de punto.
-
+    p.mb-5(data-aos="zoom-in-left")    A continuación, en la tabla 2 se conocerá la ruta de orden operacional para prendas en tejido de punto.
+   
     p.BorTit(data-aos="zoom-in-left") #[b Tabla 2.] Operaciones prendas de tejido
     .tabla-a.color-acento-botones(data-aos="zoom-in-left") 
       table
@@ -403,13 +304,13 @@
             th(colspan="2") Confección de camiseta tipo polo
         tbody
           tr
-            td Operaciones preparación:
+            td Operaciones preparación
             td Pechera, cuello, bolsillo, entre otras.
           tr
-            td Operaciones ensamble:
+            td Operaciones ensamble
             td Unir por hombros, montar mangas, cerrar por costados, dobladillar ruedo, entre otras.
           tr
-            td Operaciones de terminados:
+            td Operaciones de terminados
             td Ojalar, botonar, revisar, planchar, empacar, entre otras.
     
     .tabla-a.color-acento-botones(data-aos="zoom-in-left")
@@ -419,13 +320,13 @@
             th(colspan="2") Confección de pantalón sudadera
         tbody
           tr
-            td Operaciones preparación:
+            td Operaciones preparación
             td Colocar bolsillo lateral, bolsillos posteriores, unir forro, entre otras.
           tr
-            td Operaciones ensamble:
+            td Operaciones ensamble
             td Unir por entrepierna, unir por costados, pegar elástico incluyendo forro, dobladillar botas, entre otras.
           tr
-            td Operaciones de terminados:
+            td Operaciones de terminados
             td Revisar, empacar, entre otras.
 
 

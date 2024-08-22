@@ -39,7 +39,7 @@
     
     h3.mb-5(data-aos="zoom-in-left") Orden operacional de confección masculina
     p.mb-4(data-aos="zoom-in-left") Cuando se habla de ruta u orden operacional, se refiere al paso a paso de cada operación con sus tiempos correspondientes para llevar a cabo el desarrollo de una prenda. Las operaciones incluyen el ensamblaje de las piezas, partes o detalles que componen una prenda. El objetivo es ensamblar cada pieza por separado y luego unirlas todas mediante una serie de ejercicios con diferentes ejemplos de trazos, cortes y formas. Al final, esto permitirá el ensamblaje completo de prendas como camisas, pantalones y prendas de tejido de punto.
-    p.mb-5(data-aos="zoom-in-left") A continuación, se presenta la ruta de orden operacional para una camisa:
+    p.mb-5(data-aos="zoom-in-left") A continuación, se conocerá la ruta de orden operacional para una camisa:
 
    
     LineaTiempoC.color-acento-botones.bgimg-slider.p-5.mb-5(data-aos="zoom-in-left")
@@ -195,13 +195,13 @@
           ul.lista-ul--color
             li.d-flex 
               i.fas.fa-bullseye
-              span Pegar marquilla si se tiene al centro de la almilla o canesú forro por el derecho de la tela. Canesú o almilla forro con la vista tela hacia arriba
+              span Pegar marquilla si se tiene al centro de la almilla o canesú forro por el derecho de la tela. Canesú o almilla forro con la vista tela hacia arriba.
             li.d-flex 
               i.fas.fa-bullseye
               span Coser el pliegue o tablón de la espalda.
             li.d-flex 
               i.fas.fa-bullseye
-              span Doblar las dos marcas de la espalda
+              span Doblar las dos marcas de la espalda.
             li.d-flex 
               i.fas.fa-bullseye
               span Cuidar que coincidan con la marca o piquetes del medio, hacer una costura de ½ cm encima del tablón o pliegue o fuelle, en la parte alta de la espalda, no olvidar rematar al inicio y al final de la costura.
@@ -252,7 +252,7 @@
         .col-sm-12.col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/tema_3/img_24.png', alt='falda')
         .col-sm-12.col-lg-8
-          .fw-bold.mb-5 Confección blusa camisera
+          .fw-bold.mb-3 Confección blusa camisera
           p Conoce sobre el alistamiento para la confección de la blusa camisera a partir de la reproducción de los 18 pasos que se relacionan a continuación:
           .tarjeta.color-acento-contenido.p-3
             .row.justify-content-around.align-items-center
@@ -263,7 +263,7 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0 Video. Confección blusa camisera.
                   .col-sm-auto
-                    a.boton.color-boton(href="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12" target="_blank")
+                    a.boton.color-boton(href="https://www.youtube.com/watch?v=-nSTXfqAp0Q" target="_blank")
                       span Ir al video
                       i.fas.fa-video
       
@@ -271,7 +271,7 @@
         .col-sm-12.col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/tema_3/img_25.png', alt='falda')
         .col-sm-12.col-lg-8
-          .fw-bold.mb-5 Confección camiseta tipo polo
+          .fw-bold.mb-3 Confección camiseta tipo polo
           p Conoce sobre el alistamiento para la confección de la camiseta tipo polo a partir de la reproducción de los 18 pasos que se relacionan a continuación: 
           .tarjeta.color-acento-contenido.p-3
             .row.justify-content-around.align-items-center
@@ -280,22 +280,68 @@
               .col-sm-12.col-lg-10
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    p.mb-0 Video. Confección blusa camisera.
+                    p.mb-0 Video. Confección camiseta tipo polo.
                   .col-sm-auto
-                    a.boton.color-boton(href="https://www.youtube.com/embed/videoseries?list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe" target="_blank")
+                    a.boton.color-boton(href="https://www.youtube.com/watch?v=" target="_blank")
                       span Ir al video
                       i.fas.fa-video    
       
-    p.mb-5(data-aos="zoom-in-left") A continuación, se presenta la ruta de orden operacional para un pantalón:  
+    p.mb-5(data-aos="zoom-in-left") A continuación, se conocerá la ruta de orden operacional para un pantalón:  
 
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         img(src='@/assets/curso/tema_3/img_26.svg', alt='La imagen ilustra el proceso de plantillado, fusionado y preformado en cuatro pasos. El primer paso es el montaje de cierre, cremallera, corredera o zipper (aletilla y letillón). El segundo paso consiste en la reparación de bolsillos. El tercer paso es el montaje de un bolsillo de ribete sencillo, y el cuarto y último paso es el montaje de la pretina. Estos pasos forman un ciclo integral en la confección y ensamblaje de prendas de vestir.')
-        
-
+    .tabla-a.color-acento-botones.mb-5 
+      table
+        thead
+          tr
+            th.text-left Preparación de las piezas
+            th.text-left Proceso de plantillado fusionado y prehormado
+        tbody
+          tr
+            td.text-left 1. Montaje de Cierre, Cremallera, Corredera o Zipper (Aletilla y Aletillón).
+            td.text-left Para el montaje de una cremallera con sistema de aletilla y aletillón, es necesario identificar cada una de las piezas y tener en cuenta que los acabados los pasos para el ensamble y el desarrollo pueden variar.
+          tr
+            td.text-left 2. Preparación de bolsillos.
+            td.text-left En la elaboración de bolsillos, existen diferentes tipos, formas y cantidad de piezas que permiten tener un óptimo desarrollo de la operación, es necesario identificar el tipo de prenda, material y calidad con la que se debe desarrollar la prenda, cada uno de estos elementos varían otorgando más operaciones.
+          tr
+            td.text-left 3. Bolsillo de ribete sencillo.
+            td.text-left Existen diferentes tipos de bolsillos de ribete, de igual manera infinidad de formas para confeccionarlos, se debe tener en cuenta que su orden varía dependiendo al tipo de complemento del bolsillo.
+       
+    .fullview
+      .row.justify-content-center.mb-5.p-5
+        .col-sm-12.col-lg-6
+            .fw-bold.mb-3 Confección  del pantalón de sudadera
+            p Conoce sobre el alistamiento para la confección de la sudadera a partir de la reproducción de los 18 pasos que se relacionan a continuación:
+            .tarjeta.color-acento-contenido.p-3
+              .row.justify-content-around.align-items-center
+                .col-sm-12.col-lg-2.d-none.d-lg-block
+                  img.w-75(src="@/assets/template/icono-video.svg")
+                .col-sm-12.col-lg-10
+                  .row.justify-content-between.align-items-center
+                    .col.mb-3.mb-sm-0
+                      p.mb-0 Video. Confección  del pantalón de sudadera.
+                    .col-sm-auto
+                      a.boton.color-boton(href="https://www.youtube.com/watch?v=NHtzg2UrKHs" target="_blank")
+                        span Ir al video
+                        i.fas.fa-video 
+        .col-sm-12.col-lg-6
+            .fw-bold.mb-3 Confección  del pantalón para caballero
+            p Conoce sobre el alistamiento para la confección de pantalón para caballero a partir de la reproducción del siguiente video: 
+            .tarjeta.color-acento-contenido.p-3
+              .row.justify-content-around.align-items-center
+                .col-sm-12.col-lg-2.d-none.d-lg-block
+                  img.w-75(src="@/assets/template/icono-video.svg")
+                .col-sm-12.col-lg-10
+                  .row.justify-content-between.align-items-center
+                    .col.mb-3.mb-sm-0
+                      p.mb-0 Video. Confección  del pantalón de sudadera.
+                    .col-sm-auto
+                      a.boton.color-boton(href="https://www.youtube.com/watch?v=X3KTI-fk8LM" target="_blank")
+                        span Ir al video
+                        i.fas.fa-video 
     p.mb-5(data-aos="zoom-in-left")    A continuación, en la tabla 2 se conocerá la ruta de orden operacional para prendas en tejido de punto.
-   
     p.BorTit(data-aos="zoom-in-left") #[b Tabla 2.] Operaciones prendas de tejido
     .tabla-a.color-acento-botones(data-aos="zoom-in-left") 
       table

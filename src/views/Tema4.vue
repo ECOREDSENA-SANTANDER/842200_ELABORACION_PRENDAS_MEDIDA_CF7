@@ -13,7 +13,7 @@
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img.bgimg04
           .bloque-texto-g__texto.p-4
-            p El control de calidad ayuda a disminuir los desperdicios y los reprocesos en el ensamble de la prenda, la revisión proporciona mejor confianza en el cliente, mejorando la competitividad. Es importante mencionar los principios de la calidad, dentro de los cuales se encuentran los presentados en la figura 2.
+            p El control de calidad reduce los desperdicios y los reprocesos en el ensamblaje de las prendas, aumentando la confianza del cliente y mejorando la competitividad. Es fundamental mencionar los principios de la calidad, que se detallan en la figura 2 a continuación. 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .titulo-sexto.color-acento-contenido
@@ -79,12 +79,11 @@
     #t_4_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 4.1 Control de calidad en industrial textil y confección
 
-    p.mb-5(data-aos="zoom-in-left") El control de la calidad se realiza en procesos y en los recursos que intervienen en la producción de la prenda, en el diseño, patronaje y la materia prima, en este caso la tela; entre los insumos se destaca el control de calidad del hilo; en confección las costuras; en el empaque, embalaje y la entrega al cliente, las características de cada proceso y cada material.
-
+    p.mb-5(data-aos="zoom-in-left") El control de la calidad se realiza en procesos y en los recursos que intervienen en la producción de la prenda, en el diseño, patronaje y la materia prima, en este caso la tela; entre los insumos se destaca el control de calidad del hilo; en confección las costuras; en el empaque, embalaje y la entrega al cliente, las características de cada proceso y cada material. 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .cajon.color-acento-contenido.p-4
-          p.mb-0 El control de calidad comienza con la planificación, que establece un plan y programa de calidad, así como las técnicas y métodos a utilizar, incluyendo la muestra y el lote. Esta etapa también involucra el alistamiento de recursos, como cintas métricas, calibradores y planillas de medición. Luego, se implementan las técnicas, se registran las mediciones y controles, y finalmente se realiza un análisis para definir acciones correctivas basadas en las causas y efectos identificados.
+          p.mb-0 El control de calidad se hace a partir de la planificación, la cual establece un plan y programa de calidad, las técnicas y métodos a utilizar, entre ellos, la muestra y el lote; el alistamiento de los recursos, para proyectar los instrumentos de medición como cintas métricas, calibradores y planillas; la implementación de técnicas; los registros de mediciones y controles; y el análisis para la definición de acciones correctivas desde las causas y efectos. 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
             p.mb-0 La mejora continua permite prever ocurrencias de no conformidad en la toma de decisiones, y para ello la comunicación interna también debe estar bien organizada, contar con un sistema de comunicación adecuado para evitar duplicidades de información que afecten negativamente la gestión de la calidad. 
@@ -93,7 +92,7 @@
           img.img-a(src='@/assets/curso/tema_4/img_4.png', alt='control de calidad')
 
       .col-sm-12.col-lg-5
-        p.mb-5 Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo #[i Deming], también conocido como el PHVA  o espiral de mejora continua, sobre el cual se construyen los sistemas de gestión. Los beneficios de implementar las herramientas para controlar la calidad son:
+        p.mb-3 Para reconocer la gestión en los procesos, se debe tener en cuenta el ciclo #[i Deming], también conocido como PHVA o espiral de mejora continua, sobre el cual se construyen los sistemas de gestión. Los beneficios de implementar herramientas para controlar la calidad son:
         ul.lista-ul--color
           li 
             i.fas.fa-bullseye
@@ -133,26 +132,26 @@
       h2 4.3 Puntos de control en producto terminado
 
     p.mb-5(data-aos="zoom-in-left") Al finalizar la confección en cada módulo de producción o línea de la referencia, se revisa el producto terminado antes de realizar el proceso de planchado, procesos de lavandería, empaque y embalaje; pero igualmente se debe inspeccionar una vez se realice el planchado si es requerido y su empaque. Se deben establecer las medidas para la atención de prendas que no fueron aceptadas en las inspecciones y las acciones para su tratamiento. Lo primero es una comparación entre la ficha técnica de la prenda y la prenda física terminada. 
-    p.mb-5(data-aos="zoom-in-left") Conoce cómo se debe revisar una prenda a partir de una comparación entre la ficha técnica y la prenda física terminada.
+    p.mb-5(data-aos="zoom-in-left") Conozca cómo se debe revisar una prenda a partir de una comparación entre la ficha técnica y la prenda física terminada.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.ml-cus
         a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/entrega-sastreria_pc3a1gina_18.jpg')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link-2.svg")
             .anexo__texto
-              p Enlace web. Ficha técnica construcción.
+              p.mb-0 Enlace web. Ficha técnica construcción.
       .col-sm-12.col-lg-4.ml-cus
         a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/entrega-sastreria_pc3a1gina_21.jpg')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link-2.svg")
             .anexo__texto
-              p Enlace web. Ficha técnica elementos particulares.
+              p.mb-0 Enlace web. Ficha técnica elementos particulares.
       .col-sm-12.col-lg-4.ml-cus
         a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/entrega-sastreria_pc3a1gina_23.jpg')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link-2.svg")
             .anexo__texto
-              p Enlace web. Ficha técnica detalles.
+              p.mb-0 Enlace web. Ficha técnica detalles.
    
 
     Separador  

@@ -274,6 +274,56 @@ export default {
       significado:
         'Disciplina que estudia las interacciones del ser humano con su entorno, reúne información que permitan medir desempeño y optimización, buscando el bienestar de las personas.',
     },
+    {
+      termino: 'Maquinaria',
+      significado:
+        'Equipos utilizados en la confección de prendas, esenciales para diferentes procesos de costura y ensamblaje.',
+    },
+    {
+      termino: 'Insumos',
+      significado:
+        'Materiales necesarios para la confección de prendas, como telas, hilos, botones, y otros accesorios.',
+    },
+    {
+      termino: 'Procesos específicos',
+      significado:
+        'Secuencia de pasos detallados que se siguen en la confección de una prenda, desde el corte del textil hasta el ensamblaje final.',
+    },
+    {
+      termino: 'Rutas operacionales',
+      significado:
+        'Caminos y métodos que se siguen en la construcción de las partes de una prenda, permitiendo una interpretación adecuada de los diseños.',
+    },
+    {
+      termino: 'Revisión',
+      significado:
+        'Proceso de control de calidad para asegurar que las prendas cumplan con los estándares técnicos antes de su entrega.',
+    },
+    {
+      termino: 'Normas de seguridad',
+      significado:
+        'Reglas y directrices que garantizan la seguridad del trabajador en el entorno de confección, incluyendo el uso de equipo de protección y prácticas seguras.',
+    },
+    {
+      termino: 'Condiciones de trabajo',
+      significado:
+        'Factores ambientales y espaciales que afectan el bienestar y la productividad del trabajador, como temperatura, ruido e iluminación.',
+    },
+    {
+      termino: 'Temperatura',
+      significado:
+        'Condición ambiental que influye en el confort y rendimiento del trabajador; debe ser controlada para evitar fatiga.',
+    },
+    {
+      termino: 'Ruido',
+      significado:
+        'Sonido generado por las máquinas en el entorno de trabajo; niveles elevados pueden causar molestias y pérdida auditiva, requiriendo protección adecuada.',
+    },
+    {
+      termino: 'Iluminación',
+      significado:
+        'Nivel de luz en el espacio de trabajo; debe ser adecuada para evitar fatiga visual y asegurar precisión en la costura.',
+    },
   ],
   complementario: [
     {
@@ -288,7 +338,7 @@ export default {
       tema: '1. Maquinaria, herramientas e insumos para la confección',
       referencia: 'SENA.  (2020).  Inspección de insumos.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=HoLZv-WxqyU&t=138s',
+      link: 'https://www.youtube.com/watch?v=Dg5CADrmEiE',
     },
 
     {
@@ -296,7 +346,7 @@ export default {
       referencia:
         'SENA.  (2020).  Inspección producto en proceso área de patronaje y corte.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=EUH9LPWhh3k&t=95s',
+      link: 'https://www.youtube.com/watch?v=HTzGaDY53XE',
     },
 
     {
@@ -304,21 +354,21 @@ export default {
 
       referencia: 'SENA.  (2020).  Inspección producto en proceso.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=xlPFRjssa2Q&t=3s',
+      link: 'https://www.youtube.com/watch?v=iBvtumooFYw',
     },
 
     {
       tema: '2. Confección de prendas femeninas',
       referencia: 'SENA.  (2020).  Inspección producto terminado.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=I8adPpXG-n8&t=27s',
+      link: 'https://www.youtube.com/watch?v=1o1XpJqUCms',
     },
 
     {
       tema: '2. Confección de prendas femeninas',
       referencia: 'SENA.  (2020).  Inspección de textiles.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=2IjwoiNJCDw&t=61s',
+      link: 'https://www.youtube.com/watch?v=KHP3N-IxTV8',
     },
 
     {
@@ -381,7 +431,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -392,38 +442,38 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor Pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Leidy Johana Velásquez Hernández',
           cargo: 'Experta Temática',
-          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experta Temática',
-          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz ',
           cargo: 'Diseñadora Instruccional ',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Revisora Metodológica y Pedagógica',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Diseñador y Evaluador Instruccional',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Sandra Paola Morales Paez',
           cargo: 'Evaluadora Instruccional ',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -433,12 +483,22 @@ export default {
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Diseñador web',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
           cargo: 'Desarrolladora <i>Full-Stack</i>',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrolladora <i>Full-Stack</i> Junior',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -446,9 +506,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

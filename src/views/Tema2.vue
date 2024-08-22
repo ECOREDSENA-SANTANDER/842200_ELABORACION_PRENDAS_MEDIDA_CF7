@@ -60,7 +60,7 @@
 
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8        
-        p.mb-5 A continuación se presentarán algunos videos de apoyo para el alistamiento de recursos para la elaboración de la falda.
+        p.mb-5 A continuación, se presentarán algunos videos de apoyo para el alistamiento de recursos para la elaboración de la falda.
 
 
     .row.justify-content-center(data-aos="zoom-in-left")
@@ -72,51 +72,51 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Introducción trazo, corte y confección de la falda clásica
+                  p Introducción trazo, corte y confección de la falda clásica.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/embed/liB1zqJfBqI" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/2E4MDaqa0yE" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video  
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Elaboración del patrón frente de la falda clásica
+                  p Elaboración del patrón frente de la falda clásica.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/embed/IPd6XzOf504" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/TJ1FqRKHHfo" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Elaboración del patrón posterior de la falda clásica
+                  p Elaboración del patrón posterior de la falda clásica.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/embed/lFwR6RcFwIg" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/fXJH92sboQI" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Introducción: marcaciones sobre la tela y corte de la falda clásica
+                  p Introducción: marcaciones sobre la tela y corte de la falda clásica.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/embed/typAdUPaeSE" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/GMDaXiXAAVw" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Despiece de la falda y marcaciones
+                  p Despiece de la falda y marcaciones.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/embed/QVhz-5uv97o" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/L0rXZDNjSEI" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Alistamiento de maquinaria cumpliendo normas de seguridad
+                  p Alistamiento de maquinaria cumpliendo normas de seguridad.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/embed/AZAY9W7RLwI" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/LNtFzSgX-BY" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video     
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Introducción: confección de la falda clásica según normas de calidad
+                  p Introducción: confección de la falda clásica según normas de calidad.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/embed/aRcvWsb5mUs" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/VdHSXq3uSSs" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video 
     Separador  

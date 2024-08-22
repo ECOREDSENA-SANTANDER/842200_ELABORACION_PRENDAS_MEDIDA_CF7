@@ -15,7 +15,6 @@
           .bloque-texto-g__texto.p-4.d-flex.flex-column
             p El oficio de la costura y la confección de prendas implica varios procesos, desde la manipulación del textil cortado hasta la ejecución utilizando maquinaria específica para cada etapa. Estos procesos requieren la manipulación de sujetadores y mecanismos de arranque, donde el operario es el principal actor, asegurando el correcto funcionamiento de cada parte. Dado que la persona está involucrada en cada uno de estos procesos, es fundamental tener en cuenta las normas de seguridad y el conocimiento sobre ergonomía en el trabajo del costurero.
             p.mb-0 La ergonomía se distingue entre la industrial y la biomecánica. Esta última, más enfocada en el ámbito ocupacional, se centra en aspectos físicos relacionados con el trabajo, tales como capacidades de fuerza y postura, teniendo en cuenta tareas repetitivas durante periodos de tiempo prolongados.
-     
     Separador  
     #t_1_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 1.1 Normas generales de seguridad para la labor en la confección de prendas
@@ -25,8 +24,8 @@
 
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/OOzo1mwUnG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: SENA 2024
 
     Separador  
     #t_1_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
@@ -136,7 +135,7 @@
                     i.fas.fa-bullseye 
                     span #[strong Ambiente de trabajo:] tiene en cuenta la temperatura, iluminación, ruido, vibraciones y demás características implícitas en el bienestar del trabajador.
 
-        p.mt-5 Para prevenir las lesiones se debe considerar:
+        p.mt-1 Para prevenir las lesiones se debe considerar:
         ul.lista-ul--color
           li 
             i.fas.fa-bullseye
@@ -155,7 +154,7 @@
     #t_1_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 1.3 Maquinaria, herramientas e insumos 
 
-    p.mb-5 Conocer la maquinaria, sus partes y su funcionamiento contribuye a una ejecución óptima de las actividades dentro de la confección. Por ello, es fundamental entender estos aspectos en detalle, para lo cual se recomienda explorar el siguiente archivo para su lectura y apropiación.
+    p.mb-5 Conocer la maquinaria, sus partes y su funcionamiento contribuye a una ejecución óptima de las actividades dentro de la confección. Por ello, es fundamental entender estos aspectos en detalle, para lo cual se recomienda explorar el siguiente archivo para su apropiación.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left") 
       .col-sm-12.col-lg-6
         img.img-a(src='@/assets/curso/tema_1/img_8.svg', alt='Ruido')
@@ -175,56 +174,56 @@
                 .col
                   p.py-0 Paso 1
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/BlsIooZH9gg?list=PLkc5n6npR" target="_blank")
+                  a.boton.color-boton.py-0(href="https://youtu.be/flBQ_7Rpd6c" target="_blank")
                     span Ir al video
                     i.fas.fa-video        
               .row.justify-content-between.align-items-center.bb-steps.my-1
                 .col
                   p.py-0 Paso 2
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/wtHBYpvY2qg?list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/Irek1OJp0Fo" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center.bb-steps.my-1
                 .col
                   p.py-0 Paso 3
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/e3VIQuI2CPc" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/0kYGQjMeHLs" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center.bb-steps.my-1
                 .col
                   p.py-0 Paso 4
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/C60vi8djPhA" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/DOG6D5bEt-Y" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center.bb-steps.my-1
                 .col
                   p.py-0 Paso 5
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/7MPnUCYW0Qg" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/j5Jh83__Pa0" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center.bb-steps.my-1
                 .col
                   p.py-0 Paso 6
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/Y4GHFnR_Hq0" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/212I54SfmfA" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center.bb-steps.my-1
                 .col
                   p.py-0 Paso 7
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/Y_KBM8O2lIY" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/EReJD8K1U9I" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center.bb-steps.my-1
                 .col
                   p.py-0 Paso 8
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/uv3mjlOymIE" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/ZdBQABGg05s" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
 
@@ -233,7 +232,7 @@
                 .col
                   p.py-0 Paso 9
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/PMS6lRthWnQ" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/SB4c0ln0SQw" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
 
@@ -242,7 +241,7 @@
                 .col
                   p.py-0 Paso 10
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/Cf2gPlXy88s" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/Vmqb8gsw8Ys" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
 
@@ -251,7 +250,7 @@
                 .col
                   p.py-0 Paso 11
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/Nz1r5rl-xXQ" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/vcBrLLazbgA" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
 
@@ -260,7 +259,7 @@
                 .col
                   p.py-0 Paso 12
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/Omjyi5Wbq_8" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/18A8TeBJ9Vs" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
 
@@ -269,7 +268,7 @@
                 .col
                   p.py-0 Paso 13
                 .col-sm-auto.pb-1
-                  a.boton.color-boton.py-0(href="https://youtu.be/SqvF1VSJouU" target="_blank").mb-0
+                  a.boton.color-boton.py-0(href="https://youtu.be/Qvr_FtX7kfk" target="_blank").mb-0
                     span Ir al video
                     i.fas.fa-video
 

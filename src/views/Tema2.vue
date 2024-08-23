@@ -74,49 +74,49 @@
                 .col.mb-3.mb-sm-0
                   p Introducción trazo, corte y confección de la falda clásica.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/2E4MDaqa0yE" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=2E4MDaqa0yE" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video  
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p Elaboración del patrón frente de la falda clásica.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/TJ1FqRKHHfo" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=TJ1FqRKHHfo" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p Elaboración del patrón posterior de la falda clásica.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/fXJH92sboQI" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=fXJH92sboQI" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p Introducción: marcaciones sobre la tela y corte de la falda clásica.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/GMDaXiXAAVw" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=GMDaXiXAAVw" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p Despiece de la falda y marcaciones.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/L0rXZDNjSEI" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=L0rXZDNjSEI" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p Alistamiento de maquinaria cumpliendo normas de seguridad.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/LNtFzSgX-BY" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=LNtFzSgX-BY" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video     
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p Introducción: confección de la falda clásica según normas de calidad.
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/VdHSXq3uSSs" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=VdHSXq3uSSs" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video 
     Separador  
@@ -134,16 +134,16 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p 1. Video:  Pegar Cremallera centrada
+                  p 1. Video:  Pegado de cremallera
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://youtu.be/SxWzYsMW424" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=QGy-UcNwOgY" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video 
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p 2. Video: Montaje de Cremallera Aletilla y Aletillón
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://youtu.be/4pMSfzpnmYg" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=a7QaZBpwKtc" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video 
 
@@ -151,7 +151,7 @@
                 .col.mb-3.mb-sm-0
                   p 3. Video: Trazo de manga, puño y cuello – camisa clásica y #[i slim fit ]
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://youtu.be/ktU9DxgPvH8" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=q1IAH5I4t4s" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video 
 

@@ -282,7 +282,7 @@
                   .col.mb-3.mb-sm-0
                     p.mb-0 Video. Confección camiseta tipo polo.
                   .col-sm-auto
-                    a.boton.color-boton(href="https://www.youtube.com/watch?v=" target="_blank")
+                    a.boton.color-boton(href="https://www.youtube.com/watch?v=GxxciqbSif8" target="_blank")
                       span Ir al video
                       i.fas.fa-video    
       

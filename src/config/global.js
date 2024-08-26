@@ -198,55 +198,52 @@ export default {
     {
       referencia:
         'SENA. (2020). Puesta a punto de máquina fileteadora con puntada de seguridad. [Video]. Youtube.',
-      link:
-        'https://www.youtube.com/playlist?list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C',
+      link: 'https://www.youtube.com/watch?v=Irek1OJp0Fo',
     },
     {
       referencia:
         'SENA. (2021). Operaciones básicas para el manejo de maquina fileteadora. [Video]. Youtube.',
-      link:
-        'https://www.youtube.com/playlist?list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C',
+      link: 'https://www.youtube.com/watch?v=Irek1OJp0Fo',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 7 Coser pechera sencilla. [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=V8PrD9bgvb8',
+        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 7  [Video]. Youtube.',
+      link: 'https://www.youtube.com/watch?v=EReJD8K1U9I',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 6 Bolsillo de ribete doble. [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=4kT8atODsIQ',
+        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 6  [Video]. Youtube.',
+      link: 'https://www.youtube.com/watch?v=212I54SfmfA',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 5 Bolsillo de ribete sencillo. [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=wULIEdIahzE',
+        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 5  [Video]. Youtube.',
+      link: 'https://www.youtube.com/watch?v=j5Jh83__Pa0',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 4 Pegar bolsillos. ',
-      link: 'https://www.youtube.com/watch?v=fUW6xKvpzs0',
+        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 4 [Video]. Youtube. ',
+      link: 'https://www.youtube.com/watch?v=DOG6D5bEt-Y',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 3 Costuras a alforzas de 1 16”. [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=Sv7X27S7MSE',
+        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 3  [Video]. Youtube.',
+      link: 'https://www.youtube.com/watch?v=0kYGQjMeHLs',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 2 Costuras a alforzas de ¼”. [Video]. Youtube.:',
-      link: 'https://www.youtube.com/watch?v=5vxh3RXCw8c',
+        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 2  Video]. Youtube.',
+      link: 'https://www.youtube.com/watch?v=Irek1OJp0Fo',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 1 Costuras rectas a ¼ pulgada. [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=m6Bda8bTNxk',
+        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 1  [Video]. Youtube.',
+      link: 'https://www.youtube.com/watch?v=flBQ_7Rpd6c',
     },
     {
       referencia:
         'SENA. (2021). Puesta a punto máquina plana de una aguja. [Video]. Youtube.',
-      link:
-        'https://www.youtube.com/playlist?list=PLkc5n6npRWkhq9z8eUd2qXfN43M08IM-3',
+      link: 'https://www.youtube.com/watch?v=Irek1OJp0Fo',
     },
   ],
   glosario: [
@@ -336,8 +333,7 @@ export default {
       tema: '1. Maquinaria, herramientas e insumos para la confección',
       referencia: 'SENA.  (2020). Puesta a punto máquina recubridora.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=YF8CMBsceyg&list=PLkc5n6npRWkgXccn8uyniZH0pbZiYdvsw',
+      link: 'https://www.youtube.com/watch?v=Dg5CADrmEiE ',
     },
 
     {

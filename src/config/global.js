@@ -67,7 +67,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Orden operacional de la falda',
+            titulo: 'Trazo básico blusa',
             hash: 't_2_1',
           },
           {

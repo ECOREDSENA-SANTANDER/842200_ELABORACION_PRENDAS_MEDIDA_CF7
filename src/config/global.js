@@ -144,7 +144,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/material.pdf',
+        download: 'downloads/CF7_842200_DU.zip',
       },
       {
         icono: 'fas fa-download',

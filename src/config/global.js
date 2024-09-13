@@ -427,13 +427,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
-          centro: 'Dirección General',
+          cargo: 'Responsable del ecosistema',
+          centro: 'Dirección general',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Responsable de línea de producción',
+          centro: ' Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -442,40 +442,40 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor Pedagógico',
+          cargo: 'Asesor pedagógico',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Leidy Johana Velásquez Hernández',
-          cargo: 'Experta Temática',
-          centro: 'Regional Antioquía - Diseño, Confección y Moda',
+          cargo: 'Experta temática',
+          centro: 'Centro Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Experta Temática',
-          centro: 'Regional Antioquía - Diseño, Confección y Moda',
+          cargo: 'Experta temática',
+          centro: 'Centro Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz ',
-          cargo: 'Diseñadora Instruccional ',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Diseñadora instruccional ',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Revisora Metodológica y Pedagógica',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Revisora metodológica y pedagógica',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Diseñador y Evaluador Instruccional',
+          cargo: 'Diseñador y evaluador instruccional',
           centro:
-            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Sandra Paola Morales Paez',
-          cargo: 'Evaluadora Instruccional ',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -485,22 +485,22 @@ export default {
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Diseñador web',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>Full-Stack</i>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Desarrolladora <i>full-stack</i>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrolladora <i>Full-Stack</i> Junior',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Desarrolladora <i>full-stack</i> junior',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -509,7 +509,7 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {

@@ -31,7 +31,7 @@
     #t_1_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 1.2 Condiciones y espacios en el trabajo
     
-    p.mb-5(data-aos="zoom-in-left") Las condiciones bajo las cuales un trabajador desempeña su labor deben permitir que haya una sinergia entre el espacio y la labor, teniendo presente que su integridad física y psicológica es lo primero, dado que cuando estas condiciones de trabajo no son adecuadas o no cuentan con los elementos de protección, pueden acarrear algunas consecuencias como se observa en la figura 1. 
+    p.mb-5(data-aos="zoom-in-left") Las condiciones bajo las cuales un trabajador desempeña su labor deben permitir que haya una sinergia entre el espacio y la labor, teniendo presente que su integridad física y psicológica es lo primero, dado que cuando estas condiciones de trabajo no son adecuadas o no cuentan con los elementos de protección, pueden acarrear algunas consecuencias como se presenta en la figura 1. 
 
     .row(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8.mx-auto.mb-5

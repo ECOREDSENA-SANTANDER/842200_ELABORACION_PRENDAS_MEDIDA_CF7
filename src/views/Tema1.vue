@@ -31,7 +31,7 @@
     #t_1_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 1.2 Condiciones y espacios en el trabajo
     
-    p.mb-5(data-aos="zoom-in-left") Las condiciones bajo las cuales un trabajador desempeña su labor deben permitir que haya una sinergia entre el espacio y la labor, teniendo presente que su integridad física y psicológica es lo primero, dado que cuando estas condiciones de trabajo no son adecuadas o no cuentan con los elementos de protección, pueden acarrear algunas consecuencias como se presenta en la figura 1. 
+    p.mb-5(data-aos="zoom-in-left") Las condiciones bajo las cuales un trabajador desempeña su labor deben permitir que haya una sinergia entre el espacio y la labor, teniendo presente que su integridad física y psicológica es lo primero, dado que cuando estas condiciones de trabajo no son adecuadas o no cuentan con los elementos de protección, pueden acarrear algunas consecuencias como se indica en la figura 1. 
 
     .row(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8.mx-auto.mb-5
@@ -68,7 +68,7 @@
       .tarjeta.bg02.p-4(titulo="Iluminación")
         .row.align-items-center
           .col-12
-            p Es indispensable que los espacios tengan una iluminación adecuada ya que es un factor importante, pero este debe ser la adecuada ya que el exceso, así como la carencia afectan demasiado. Esto porque toda la actividad es guiada por la vista y en este ejercicio el ojo se contrae y se dilata constantemente.  Algunos de los efectos si no hay atención a este aspecto son la irritación visual, inseguridad en los movimientos, ardor y resequedad en la retina. A continuación, en la tabla 1 se presentan los mínimos de intensidad recomendados.
+            p Es indispensable que los espacios tengan una iluminación adecuada, ya que es un factor importante, pero este debe ser la adecuada, ya que el exceso, así como la carencia afectan demasiado. Esto porque toda la actividad es guiada por la vista y en este ejercicio el ojo se contrae y se dilata constantemente.  Algunos de los efectos si no hay atención a este aspecto son la irritación visual, inseguridad en los movimientos, ardor y resequedad en la retina. A continuación, en la tabla 1 se presentan los mínimos de intensidad recomendados.
 
 
         p.BorTit #[b Tabla 1.] Intensidad de la iluminación
@@ -142,7 +142,7 @@
             | #[strong Sillas adecuadas:] ajustables y ergonómicas.
           li 
             i.fas.fa-bullseye
-            | #[strong Soporte para pies:] es importante cuando se trabaja por jornadas extendidas sentado. Esto permite ayudar a que el nivel de 90º se cumpla. 
+            | #[strong Soporte para pies:] es importante cuando se trabaja por jornadas extendidas, sentado. Esto permite ayudar a que el nivel de 90º se cumpla. 
           li 
             i.fas.fa-bullseye
             | #[strong Ajuste de equipo:] altura de mesas y máquinas de confección.

@@ -67,7 +67,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Trazo básico blusa',
+            titulo: 'Orden operacional de la falda',
             hash: 't_2_1',
           },
           {
@@ -202,7 +202,7 @@ export default {
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo de maquina fileteadora. [Video]. Youtube.',
+        'SENA. (2021). Operaciones básicas para el manejo de máquina fileteadora. [Video]. Youtube.',
       link: 'https://www.youtube.com/watch?v=Irek1OJp0Fo',
     },
     {

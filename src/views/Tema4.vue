@@ -123,7 +123,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .cajon.color-acento-contenido.p-4
-          p.mb-0.fw-bold También se conoce la estrategia de mejora de procesos #[i Six Sigma ], que se centra en la reducción de su variabilidad, reforzando y optimizando cada parte. Vale la pena mencionar que, uno de los procesos para reducir o eliminar los defectos del producto, se conoce por sus siglas en inglés DMAIC: Definir, Medir, Analizar, Mejorar y Controlar.
+          p.mb-0.fw-bold También se conoce la estrategia de mejora de procesos #[i Six Sigma], que se centra en la reducción de su variabilidad, reforzando y optimizando cada parte. Vale la pena mencionar que, uno de los procesos para reducir o eliminar los defectos del producto, se conoce por sus siglas en inglés DMAIC: Definir, Medir, Analizar, Mejorar y Controlar.
     .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
           img.img-a(src='@/assets/curso/tema_4/img_33.svg', alt='control de calidad')

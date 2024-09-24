@@ -51,13 +51,13 @@
           ul.lista-ul--color
             li.d-flex 
               i.fas.fa-bullseye
-              span  Fusionar el cuello centrando las entretelas sobre la tela del cuello, dejando 1cm de margen de costura por contorno. 
+              span  Fusionar el cuello centrando las entretelas sobre la tela del cuello, dejando 1 cm de margen de costura por contorno. 
             li.d-flex 
               i.fas.fa-bullseye
               span  Coser el contorno a ½ cm en la parte de arriba del cuello, rematando costura al iniciar y al terminar.
             li.d-flex 
               i.fas.fa-bullseye
-              span  Despuntar, desbastar o perfilar, la parte de la punta del cuello para afinar el acabado y al voltearlo guarde simetría.
+              span  Despuntar, desbastar o perfilar, la parte de la punta del cuello para afinar el acabado y al voltearlo, guarde simetría.
             li.d-flex 
               i.fas.fa-bullseye
               span  Voltear el cuello y con la ayuda de las tijeras o con un punzón, definir las puntas cuidando no picar la pieza. 
@@ -291,7 +291,7 @@
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
-        img(src='@/assets/curso/tema_3/img_26.svg', alt='La imagen ilustra el proceso de plantillado, fusionado y preformado en cuatro pasos. El primer paso es el montaje de cierre, cremallera, corredera o zipper (aletilla y letillón). El segundo paso consiste en la reparación de bolsillos. El tercer paso es el montaje de un bolsillo de ribete sencillo, y el cuarto y último paso es el montaje de la pretina. Estos pasos forman un ciclo integral en la confección y ensamblaje de prendas de vestir.')
+        img(src='@/assets/curso/tema_3/img_26.svg', alt='La imagen ilustra el proceso de plantillado, fusionado y prehormado en cuatro pasos. El primer paso es el montaje de cierre, cremallera, corredera o zipper (aletilla y letillón). El segundo paso consiste en la reparación de bolsillos. El tercer paso es el montaje de un bolsillo de ribete sencillo, y el cuarto y último paso es el montaje de la pretina. Estos pasos forman un ciclo integral en la confección y ensamblaje de prendas de vestir.')
     .tabla-a.color-acento-botones.mb-5 
       table
         thead
@@ -313,7 +313,7 @@
       .row.justify-content-center.mb-5.p-5
         .col-sm-12.col-lg-6
             .fw-bold.mb-3 Confección  del pantalón de sudadera
-            p Conoce sobre el alistamiento para la confección de la sudadera a partir de la reproducción de los 18 pasos que se relacionan a continuación:
+            p Conoce sobre el alistamiento para la confección de la sudadera:
             .tarjeta.color-acento-contenido.p-3
               .row.justify-content-around.align-items-center
                 .col-sm-12.col-lg-2.d-none.d-lg-block
@@ -323,7 +323,7 @@
                     .col.mb-3.mb-sm-0
                       p.mb-0 Video. Confección  del pantalón de sudadera.
                     .col-sm-auto
-                      a.boton.color-boton(href="https://www.youtube.com/watch?v=NHtzg2UrKHs" target="_blank")
+                      a.boton.color-boton(href="https://www.youtube.com/watch?v=X3KTI-fk8LM" target="_blank")
                         span Ir al video
                         i.fas.fa-video 
         .col-sm-12.col-lg-6
@@ -336,9 +336,9 @@
                 .col-sm-12.col-lg-10
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      p.mb-0 Video. Confección  del pantalón de sudadera.
+                      p.mb-0 Video. Confección  del pantalón para caballero.
                     .col-sm-auto
-                      a.boton.color-boton(href="https://www.youtube.com/watch?v=X3KTI-fk8LM" target="_blank")
+                      a.boton.color-boton(href="https://www.youtube.com/watch?v=NHtzg2UrKHs" target="_blank")
                         span Ir al video
                         i.fas.fa-video 
     p.mb-5(data-aos="zoom-in-left")    A continuación, en la tabla 2 se conocerá la ruta de orden operacional para prendas en tejido de punto.

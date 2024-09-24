@@ -16,7 +16,7 @@
             p.mb-0 En el proceso de confección o ensamble de prendas masculinas y femeninas, el modisto o sastre debe manejar y dominar las máquinas de coser y sus aditamentos básicos. Aunque la destreza en el manejo de estas máquinas es importante, es fundamental comprender que cada molde, patrón, plano o diseño incluye una ruta u orden operacional con especificaciones para el ensamble. Estas especificaciones están estrechamente relacionadas con el área de prototipado o muestreo.
     Separador  
     #t_2_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
-      h2 2.1 Trazo básico blusa
+      h2 2.1 Orden operacional de la falda
 
     p.mb-5(data-aos="zoom-in-left") Es necesario que para la confección de la falda clásica se tengan los elementos que fueron previamente trazados y patronados, así como el material textil, cierre e insumos necesarios para generar los acabados. 
 
@@ -25,12 +25,12 @@
         img.img-a(src='@/assets/curso/tema_2/img_2.png', alt='falda')
       .col-sm-12.col-lg-6
         .fw-bold.mb-5 Ruta operacional de la falda
-        p.mb-4 La elaboración de una falda cuenta con lo siguientes pasos:
+        p.mb-4 La elaboración de una falda cuenta con los siguientes pasos:
         ol.lista-ol
           li.d-flex
             .lista-ol--cuadro__vineta.color-primario
               span.text-bold.txt-sistema 1
-            span Unir los costados de la falda con maquina plana y posteriormente pasarla por la fileteadora.
+            span Unir los costados de la falda con máquina plana y posteriormente pasarla por la fileteadora.
 
           li.d-flex
             .lista-ol--cuadro__vineta.color-primario 

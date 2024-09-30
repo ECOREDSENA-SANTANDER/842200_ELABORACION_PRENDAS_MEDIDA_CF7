@@ -93,7 +93,7 @@
                     i.fas.fa-video
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Introducción: marcaciones sobre la tela y corte de la falda clásica.
+                  p Introducción marcaciones sobre la tela y corte de la falda clásica.
                 .col-sm-auto
                   a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=GMDaXiXAAVw" target="_blank").mb-1
                     span Ir al video
@@ -114,7 +114,7 @@
                     i.fas.fa-video     
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Introducción: confección de la falda clásica según normas de calidad.
+                  p Introducción confección de la falda clásica según normas de calidad.
                 .col-sm-auto
                   a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=VdHSXq3uSSs" target="_blank").mb-1
                     span Ir al video
@@ -136,14 +136,14 @@
                 .col.mb-3.mb-sm-0
                   p 1. Video:  Pegado de cremallera
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=QGy-UcNwOgY" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=4LA6ndcPWaA" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video 
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p 2. Video: Montaje de Cremallera Aletilla y Aletillón
+                  p 2. Video: Montaje de cremallera aletilla y aletillón
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=a7QaZBpwKtc" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=Nas9w764oLQ" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video 
 
@@ -151,7 +151,7 @@
                 .col.mb-3.mb-sm-0
                   p 3. Video: Trazo de manga, puño y cuello – camisa clásica y #[i slim fit ]
                 .col-sm-auto
-                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=q1IAH5I4t4s" target="_blank").mb-1
+                  a.boton.color-boton.py-1(href="https://www.youtube.com/watch?v=QgP2D57n8SU" target="_blank").mb-1
                     span Ir al video
                     i.fas.fa-video 
 

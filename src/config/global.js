@@ -197,53 +197,50 @@ export default {
     },
     {
       referencia:
-        'SENA. (2020). Puesta a punto de máquina fileteadora con puntada de seguridad. [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=Irek1OJp0Fo',
+        'SENA. (2020). Puesta a punto de máquina fileteadora con puntada de seguridad. [Video]. ',
+      link:
+        'https://www.youtube.com/playlist?list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo de máquina fileteadora. [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=Irek1OJp0Fo',
+        'SENA. (2021). Puesta a punto máquina plana de una aguja. [Video]. ',
+      link:
+        'https://www.youtube.com/playlist?list=PLkc5n6npRWkhq9z8eUd2qXfN43M08IM-3',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 7  [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=EReJD8K1U9I',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024a, agosto 21). Elaboración del patrón frente de la falda clásica. [Vídeo].',
+      link: 'https://www.youtube.com/watch?v=TJ1FqRKHHfo',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 6  [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=212I54SfmfA',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024b, agosto 21). Elaboración del patrón posterior de la falda clásica. [Vídeo].',
+      link: 'https://www.youtube.com/watch?v=fXJH92sboQI',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 5  [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=j5Jh83__Pa0',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024c, agosto 21). Introducción marcaciones sobre la tela y corte de la falda clásica [Vídeo].',
+      link: 'https://www.youtube.com/watch?v=GMDaXiXAAVw',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 4 [Video]. Youtube. ',
-      link: 'https://www.youtube.com/watch?v=DOG6D5bEt-Y',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024d, agosto 21). Introducción trazo, corte y confección de la falda clásica. [Vídeo].',
+      link: 'https://www.youtube.com/watch?v=2E4MDaqa0yE',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 3  [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=0kYGQjMeHLs',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024a, agosto 21). Despiece de la falda y marcaciones [Vídeo].',
+      link: 'https://www.youtube.com/watch?v=L0rXZDNjSEI',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 2  Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=Irek1OJp0Fo',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024i, agosto 21). Introducción trazo, corte y confección de la falda clásica. [Vídeo].',
+      link: 'https://www.youtube.com/watch?v=2E4MDaqa0yE',
     },
     {
       referencia:
-        'SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja Paso 1  [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=flBQ_7Rpd6c',
-    },
-    {
-      referencia:
-        'SENA. (2021). Puesta a punto máquina plana de una aguja. [Video]. Youtube.',
-      link: 'https://www.youtube.com/watch?v=Irek1OJp0Fo',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024a, agosto 21). Alistamiento de maquinaria cumpliendo normas de seguridad. [Vídeo].',
+      link: 'https://www.youtube.com/watch?v=LNtFzSgX-BY',
     },
   ],
   glosario: [
